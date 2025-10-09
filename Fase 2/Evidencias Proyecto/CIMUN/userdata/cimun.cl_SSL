@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/cimun/public_html
+group: cimun
+hascgi: 1
+homedir: /home/cimun
+ip: 138.255.101.220
+ipv6: ~
+owner: brohostc
+phpopenbasedirprotect: ~
+port: 444
+secruleengineoff: ~
+serveradmin: webmaster@cimun.cl
+serveralias: www.cimun.cl mail.cimun.cl
+servername: cimun.cl
+ssl: 1
+usecanonicalname: 'Off'
+user: cimun
+userdirprotect: ''

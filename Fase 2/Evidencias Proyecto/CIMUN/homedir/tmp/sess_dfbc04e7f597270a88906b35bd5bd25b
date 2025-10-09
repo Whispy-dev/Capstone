@@ -1,0 +1,96 @@
+ PMA_token |s:32:"5a2e357c7856494f383730317c797e44"; HMAC_secret |s:16:"PlX5LnRL(yeX1E%W";auth_type|s:3:"env";browser_access_time|a:3:{s:7:"default";i:1756328653;s:36:"90bdc822-13f6-baf0-599e-dfec6f1a7408";i:1756327084;s:36:"93cd5092-acff-768d-5869-68f1d8b067b3";i:1756333966;}encryption_key|s:32:"wOC�9<_��j�#~�n�"�x�\]7��PW���";relation|a:1:{i:1;a:41:{s:7:"version";s:5:"5.2.2";s:4:"user";N;s:2:"db";N;s:8:"bookmark";N;s:15:"central_columns";N;s:11:"column_info";N;s:17:"designer_settings";N;s:16:"export_templates";N;s:8:"favorite";N;s:7:"history";N;s:16:"navigationhiding";N;s:9:"pdf_pages";N;s:6:"recent";N;s:8:"relation";N;s:13:"savedsearches";N;s:12:"table_coords";N;s:10:"table_info";N;s:13:"table_uiprefs";N;s:8:"tracking";N;s:10:"userconfig";N;s:10:"usergroups";N;s:5:"users";N;s:12:"bookmarkwork";b:0;s:8:"mimework";b:0;s:18:"centralcolumnswork";b:0;s:8:"commwork";b:0;s:9:"menuswork";b:0;s:20:"designersettingswork";b:0;s:11:"displaywork";b:0;s:19:"exporttemplateswork";b:0;s:12:"favoritework";b:0;s:7:"navwork";b:0;s:7:"pdfwork";b:0;s:10:"recentwork";b:0;s:7:"relwork";b:0;s:17:"savedsearcheswork";b:0;s:11:"historywork";b:0;s:12:"trackingwork";b:0;s:11:"uiprefswork";b:0;s:14:"userconfigwork";b:0;s:8:"allworks";b:0;}}userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:2:"es";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1756328492;}two_factor_check|b:1;cache|a:2:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1756328492;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1754444444;s:9:"userprefs";a:2:{s:4:"lang";s:2:"es";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:25:"server_1_cpses_citmuqagnj";a:19:{s:17:"is_create_db_priv";b:0;s:14:"is_reload_priv";b:0;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:9:"cimun\_db";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:0;s:10:"table_priv";b:0;s:8:"col_priv";b:0;s:7:"db_priv";b:0;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:14:"Bases de datos";s:3:"sql";s:3:"SQL";s:6:"status";s:13:"Estado actual";s:6:"rights";s:8:"Usuarios";s:6:"export";s:8:"Exportar";s:6:"import";s:8:"Importar";s:8:"settings";s:14:"Configuración";s:6:"binlog";s:16:"Registro binario";s:11:"replication";s:12:"Replicación";s:4:"vars";s:9:"Variables";s:7:"charset";s:20:"Juegos de caracteres";s:7:"plugins";s:12:"Complementos";s:6:"engine";s:7:"Motores";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:10:"Estructura";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Buscar";s:5:"query";s:20:"Generar una consulta";s:6:"export";s:8:"Exportar";s:6:"import";s:8:"Importar";s:9:"operation";s:11:"Operaciones";s:10:"privileges";s:11:"Privilegios";s:8:"routines";s:7:"Rutinas";s:6:"events";s:7:"Eventos";s:8:"triggers";s:12:"Disparadores";s:8:"tracking";s:11:"Seguimiento";s:8:"designer";s:10:"Diseñador";s:15:"central_columns";s:18:"Columnas centrales";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:8:"Examinar";s:9:"structure";s:10:"Estructura";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Buscar";s:6:"insert";s:8:"Insertar";s:6:"export";s:8:"Exportar";s:6:"import";s:8:"Importar";s:10:"privileges";s:11:"Privilegios";s:9:"operation";s:11:"Operaciones";s:8:"tracking";s:11:"Seguimiento";s:8:"triggers";s:12:"Disparadores";}s:24:"disabled_storage_engines";s:0:"";s:12:"is_superuser";b:0;s:14:"mysql_cur_user";s:26:"cpses_citmuqagnj@localhost";s:12:"is_grantuser";b:0;s:13:"is_createuser";b:0;}}tmpval|a:16:{s:14:"favoriteTables";a:1:{i:1;a:0:{}}s:12:"recentTables";a:1:{i:1;a:9:{i:0;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";}i:1;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"business_rules";}i:2;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:25:"category_municipality_sla";}i:3;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"positions";}i:4;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"users";}i:5;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"user_positions";}i:6;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:19:"incident_categories";}i:7;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"documents";}i:8;a:2:{s:2:"db";s:8:"cimun_db";s:5:"table";s:4:"slas";}}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:8:"cimun_db";s:13:"table_uiprefs";a:1:{i:1;a:1:{s:8:"cimun_db";a:9:{s:4:"slas";a:0:{}s:9:"documents";a:0:{}s:25:"category_municipality_sla";a:0:{}s:19:"incident_categories";a:0:{}s:5:"areas";a:0:{}s:14:"user_positions";a:0:{}s:9:"positions";a:0:{}s:5:"users";a:0:{}s:14:"business_rules";a:0:{}}}}s:5:"query";a:10:{s:32:"5861f7fab8da30d9fdb6c18a551587eb";a:8:{s:3:"sql";s:35:"SELECT * FROM `incident_categories`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"6cddaf11a96a2ada2435802843727ad6";a:8:{s:3:"sql";s:1679:"INSERT INTO areas (name, descripcion) VALUES
+('Administración Municipal', 'Área encargada de la gestión interna, recursos humanos y coordinación general'),
+('Secretaría Municipal', 'Responsable de actas, decretos, transparencia y atención al concejo'),
+('Dirección de Obras Municipales', 'Supervisa construcciones, permisos, urbanismo y planificación territorial'),
+('Finanzas', 'Gestiona presupuesto, contabilidad, pagos y recaudación de ingresos'),
+('Desarrollo Comunitario', 'Promueve participación ciudadana, organizaciones sociales y programas comunitarios'),
+('Educación', 'Administra establecimientos educacionales municipales y programas escolares'),
+('Salud', 'Gestiona centros de atención primaria y programas de salud pública'),
+('Aseo y Ornato', 'Encargada de limpieza urbana, áreas verdes y mantención de espacios públicos'),
+('Seguridad Pública', 'Coordina patrullajes, prevención del delito y vínculos con Carabineros'),
+('Transporte y Tránsito', 'Regula el tránsito, señalización, permisos de circulación y transporte público local'),
+('Medio Ambiente', 'Promueve la sustentabilidad, reciclaje y protección ambiental'),
+('Turismo y Cultura', 'Fomenta actividades culturales, patrimonio y promoción turística local'),
+('Fomento Productivo', 'Apoya emprendimientos, ferias, comercio local y desarrollo económico'),
+('Tecnologías de la Información', 'Administra sistemas informáticos, soporte técnico y transformación digital'),
+('Jurídico', 'Asesora legalmente al municipio y gestiona litigios y normativas'),
+('Planificación Estratégica', 'Diseña planes de desarrollo comunal y evalúa proyectos municipales');";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"4e2117010b3a9c36ab6a3576c5164def";a:8:{s:3:"sql";s:1679:"INSERT INTO areas (name, description) VALUES
+('Administración Municipal', 'Área encargada de la gestión interna, recursos humanos y coordinación general'),
+('Secretaría Municipal', 'Responsable de actas, decretos, transparencia y atención al concejo'),
+('Dirección de Obras Municipales', 'Supervisa construcciones, permisos, urbanismo y planificación territorial'),
+('Finanzas', 'Gestiona presupuesto, contabilidad, pagos y recaudación de ingresos'),
+('Desarrollo Comunitario', 'Promueve participación ciudadana, organizaciones sociales y programas comunitarios'),
+('Educación', 'Administra establecimientos educacionales municipales y programas escolares'),
+('Salud', 'Gestiona centros de atención primaria y programas de salud pública'),
+('Aseo y Ornato', 'Encargada de limpieza urbana, áreas verdes y mantención de espacios públicos'),
+('Seguridad Pública', 'Coordina patrullajes, prevención del delito y vínculos con Carabineros'),
+('Transporte y Tránsito', 'Regula el tránsito, señalización, permisos de circulación y transporte público local'),
+('Medio Ambiente', 'Promueve la sustentabilidad, reciclaje y protección ambiental'),
+('Turismo y Cultura', 'Fomenta actividades culturales, patrimonio y promoción turística local'),
+('Fomento Productivo', 'Apoya emprendimientos, ferias, comercio local y desarrollo económico'),
+('Tecnologías de la Información', 'Administra sistemas informáticos, soporte técnico y transformación digital'),
+('Jurídico', 'Asesora legalmente al municipio y gestiona litigios y normativas'),
+('Planificación Estratégica', 'Diseña planes de desarrollo comunal y evalúa proyectos municipales');";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"54bec3f53731927500b74c6cbeba3cd4";a:8:{s:3:"sql";s:3349:"INSERT INTO positions (name, description, area_id) VALUES
+-- 1. Administración Municipal
+('Administrador Municipal', 'Coordina la gestión interna y supervisa áreas operativas', 1),
+('Encargado de Recursos Humanos', 'Gestiona contrataciones, capacitaciones y clima laboral', 1),
+
+-- 2. Secretaría Municipal
+('Secretario Municipal', 'Responsable de actas, decretos y apoyo al concejo', 2),
+('Encargado de Transparencia', 'Gestiona solicitudes de información y cumplimiento normativo', 2),
+
+-- 3. Dirección de Obras Municipales
+('Director de Obras Municipales', 'Supervisa urbanismo, construcción y permisos', 3),
+('Inspector Técnico de Obras', 'Fiscaliza ejecución de proyectos y cumplimiento técnico', 3),
+
+-- 4. Finanzas
+('Director de Finanzas', 'Administra presupuesto, pagos y contabilidad', 4),
+('Encargado de Tesorería', 'Gestiona pagos, ingresos y caja municipal', 4),
+
+-- 5. Desarrollo Comunitario
+('Director de Desarrollo Comunitario', 'Promueve participación ciudadana y programas sociales', 5),
+('Encargado de Organizaciones Sociales', 'Vincula juntas de vecinos y agrupaciones locales', 5),
+
+-- 6. Educación
+('Director de Educación', 'Administra escuelas municipales y programas escolares', 6),
+('Encargado de Apoyo Escolar', 'Coordina becas, útiles y reforzamiento educativo', 6),
+
+-- 7. Salud
+('Director de Salud', 'Gestiona centros de atención primaria y salud pública', 7),
+('Encargado de Programas Preventivos', 'Coordina campañas de vacunación y prevención', 7),
+
+-- 8. Aseo y Ornato
+('Encargado de Aseo y Ornato', 'Coordina limpieza urbana y mantención de áreas verdes', 8),
+('Supervisor de Cuadrillas', 'Organiza equipos de terreno y rutas de limpieza', 8),
+
+-- 9. Seguridad Pública
+('Encargado de Seguridad Pública', 'Coordina patrullajes y prevención del delito', 9),
+('Encargado de Emergencias', 'Gestiona planes de contingencia y respuesta rápida', 9),
+
+-- 10. Transporte y Tránsito
+('Encargado de Tránsito', 'Regula señalización y permisos de circulación', 10),
+('Inspector de Transporte', 'Fiscaliza transporte público y cumplimiento de normas', 10),
+
+-- 11. Medio Ambiente
+('Encargado de Medio Ambiente', 'Promueve reciclaje y protección ambiental', 11),
+('Encargado de Gestión de Residuos', 'Coordina puntos limpios y educación ambiental', 11),
+
+-- 12. Turismo y Cultura
+('Encargado de Cultura', 'Organiza actividades culturales y artísticas', 12),
+('Encargado de Turismo', 'Promueve atractivos locales y patrimonio comunal', 12),
+
+-- 13. Fomento Productivo
+('Encargado de Fomento Productivo', 'Apoya emprendedores y comercio local', 13),
+('Encargado de Ferias Libres', 'Coordina espacios y permisos para ferias', 13),
+
+-- 14. Tecnologías de la Información
+('Encargado de Informática', 'Administra sistemas y soporte técnico', 14),
+('Encargado de Transformación Digital', 'Impulsa modernización y automatización de procesos', 14),
+
+-- 15. Jurídico
+('Asesor Jurídico', 'Brinda asesoría legal y gestiona normativas', 15),
+('Encargado de Litigios', 'Representa al municipio en causas judiciales', 15),
+
+-- 16. Planificación Estratégica
+('Encargado de Planificación Estratégica', 'Diseña planes comunales y evalúa proyectos', 16),
+('Encargado de Proyectos', 'Formula iniciativas y gestiona fondos externos', 16);";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"79fb1b15fd3a902e6b84e31a7d998bac";a:8:{s:3:"sql";s:30:"SELECT * FROM `user_positions`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"a0126c4b5a40040a9b594f7a4d61396b";a:8:{s:3:"sql";s:21:"SELECT * FROM `users`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"09852f274850e184ecc6c6a439cdc95b";a:8:{s:3:"sql";s:25:"SELECT * FROM `positions`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"624ec2d7457dc16cf6babc0a5b2a43bc";a:8:{s:3:"sql";s:41:"SELECT * FROM `category_municipality_sla`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"de1df19700ea6de97d38e372a60d6610";a:8:{s:3:"sql";s:30:"SELECT * FROM `business_rules`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"dc3ff6286565625009051fbaead6998a";a:8:{s:3:"sql";s:21:"SELECT * FROM `areas`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:20:"possible_as_geometry";b:1;}git_location|N;is_git_revision|b:0;ConfigFile1|a:4:{s:28:"PmaNoRelation_DisableWarning";b:1;s:12:"ShowCreateDb";b:0;s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}flashMessages|a:0:{}is_multi_query|b:0;sql_history|a:23:{i:0;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:4:"slas";s:8:"sqlquery";s:20:"SELECT * FROM `slas`";}i:1;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"documents";s:8:"sqlquery";s:25:"SELECT * FROM `documents`";}i:2;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:25:"category_municipality_sla";s:8:"sqlquery";s:41:"SELECT * FROM `category_municipality_sla`";}i:3;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:19:"incident_categories";s:8:"sqlquery";s:35:"SELECT * FROM `incident_categories`";}i:4;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}i:5;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}i:6;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"user_positions";s:8:"sqlquery";s:30:"SELECT * FROM `user_positions`";}i:7;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"positions";s:8:"sqlquery";s:25:"SELECT * FROM `positions`";}i:8;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}i:9;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"positions";s:8:"sqlquery";s:25:"SELECT * FROM `positions`";}i:10;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"positions";s:8:"sqlquery";s:25:"SELECT * FROM `positions`";}i:11;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"users";s:8:"sqlquery";s:21:"SELECT * FROM `users`";}i:12;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"user_positions";s:8:"sqlquery";s:30:"SELECT * FROM `user_positions`";}i:13;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"users";s:8:"sqlquery";s:21:"SELECT * FROM `users`";}i:14;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}i:15;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"users";s:8:"sqlquery";s:21:"SELECT * FROM `users`";}i:16;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"user_positions";s:8:"sqlquery";s:30:"SELECT * FROM `user_positions`";}i:17;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"users";s:8:"sqlquery";s:21:"SELECT * FROM `users`";}i:18;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:9:"positions";s:8:"sqlquery";s:25:"SELECT * FROM `positions`";}i:19;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}i:20;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:25:"category_municipality_sla";s:8:"sqlquery";s:41:"SELECT * FROM `category_municipality_sla`";}i:21;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:14:"business_rules";s:8:"sqlquery";s:30:"SELECT * FROM `business_rules`";}i:22;a:3:{s:2:"db";s:8:"cimun_db";s:5:"table";s:5:"areas";s:8:"sqlquery";s:21:"SELECT * FROM `areas`";}}Import_message|a:2:{s:7:"message";N;s:11:"go_back_url";s:56:"index.php?route=/table/structure&db=cimun_db&table=areas";}errors|a:0:{}

@@ -1,0 +1,1287 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home/cimun/tmp/awstats/ssl/awstats.cimun.cl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2040                
+POS_TIME 2713                
+POS_VISITOR 23391               
+POS_DAY 35962               
+POS_DOMAIN 3621                
+POS_LOGIN 4182                
+POS_ROBOT 4337                
+POS_WORMS 5083                
+POS_EMAILSENDER 5214                
+POS_EMAILRECEIVER 5357                
+POS_SESSION 36497               
+POS_FILESIZE 44259               
+POS_SIDER 36709               
+POS_FILETYPES 5492                
+POS_DOWNLOADS 5836                
+POS_OS 6083                
+POS_BROWSER 6422                
+POS_SCREENSIZE 8069                
+POS_UNKNOWNREFERER 8143                
+POS_UNKNOWNREFERERBROWSER 8775                
+POS_ORIGIN 9110                
+POS_SEREFERRALS 9256                
+POS_PAGEREFS 9476                
+POS_SEARCHWORDS 11500               
+POS_KEYWORDS 11652               
+POS_MISC 2376                
+POS_ERRORS 11711               
+POS_CLUSTER 4038                
+POS_SIDER_404 11958               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250901073756 1 0 13510117763832
+FirstTime 20250814233539
+LastTime 20250831095151
+LastUpdate 20250902021335 1 0 0 0 0
+TotalVisits 346                 
+TotalUnique 288                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 316                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 85 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 214855 14 20 308650
+1 61 919 133648588 82 120 656792
+2 43 299 43422884 237 626 28594901
+3 8 111 16487431 53 806 47683885
+4 27 29 2564626 92 99 681247
+5 19 84 9565965 47 61 495398
+6 18 18 1328907 11 24 134100
+7 21 21 1270199 25 31 293813
+8 15 24 1510939 15 15 350658
+9 81 279 31472705 32 45 1290601
+10 157 215 15977189 39 52 4423251
+11 308 2847 276270349 82 102 3932323
+12 152 799 80027843 43 50 2750562
+13 55 523 44851306 39 68 908458
+14 24 256 32003686 4 4 1295
+15 52 155 15683635 19 22 1003963
+16 236 606 33915231 38 84 3712531
+17 238 802 75368560 59 74 8543430
+18 141 323 30924476 21 24 1235638
+19 220 397 22937716 55 67 16707041
+20 156 268 15867321 191 222 2636340
+21 133 178 11478905 60 86 12387188
+22 269 396 26019102 97 160 14671730
+23 96 1205 95939144 24 104 3800485
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+cl 1968 4073 246797951
+us 310 3268 396713865
+ir 144 2437 241007817
+ca 18 136 19418657
+nl 16 123 19713574
+gb 16 303 44793543
+ru 11 124 17479923
+in 9 29 2076489
+be 9 124 11130006
+se 7 8 473204
+cn 6 7 363524
+hk 4 4 107238
+de 4 8 455305
+il 3 47 6744535
+tw 3 3 128427
+jp 2 2 213298
+es 2 54 8078990
+ao 2 2 213298
+kr 1 1 106649
+nc 1 1 53619
+ro 0 6 2681554
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bot[\s_+:,\.\;\/\\-] 1335 75597388 20250831231414 25
+bingbot/ 48 2906756 20250830103722 6
+CheckMarkNetwork/ 33 3355552 20250817221158 2
+Applebot/ 26 707348 20250830225247 4
+no_user_agent 18 1013110 20250830173501 0
+unknown 14 336 20250831180526 14
+Go\-http\-client/ 10 393756 20250820080507 3
+curl 7 746543 20250817131012 0
+BW/ 6 96388 20250822091930 2
+facebookexternalhit/ 4 96 20250829132706 4
+nutch 2 37428 20250828214011 1
+checker 2 213298 20250817084442 0
+[\s_+:,\.\;\/\\-]bot 2 91023 20250826174217 0
+crawl 2 74808 20250829132706 0
+Python\-urllib/ 1 106649 20250815070305 0
+scrapy 1 106649 20250815014326 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+Unknown 1714 107316189 0 0
+png 2593 131882935 0 0
+jpg 1098 115928402 0 0
+css 1608 295401257 0 0
+txt 160 629886 0 0
+woff 15 192084 0 0
+woff2 202 107752972 0 0
+json 4 11807 0 0
+js 1822 103394286 0 0
+svg 857 9624775 0 0
+html 449 30605884 0 0
+php 152 797987 0 0
+gif 86 115213002 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/assets/customizer.txt 159 0 617238
+/assets/images/profile-app/video.mp4 1 0 12138
+/assets/images/blog-app/video1.mp4 1 0 12574
+/assets/vendor/datatable/ajax/objects.txt 1 0 12648
+/robots.txt 0 4 96
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxubuntu 19 7
+macosx7 3 2
+win7 184 13
+linux 1337 94
+macosx15 2006 170
+win8 1 1
+macosx9 10 5
+win10 6568 2127
+win8.1 4 0
+macosx 4 3
+macosx14 3 3
+android 14 1
+android10 128 31
+macosx10 1 1
+androidmarshmallow 47 2
+android12 49 2
+Unknown 67 45
+ios_iphone 314 28
+macosx12 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 78
+edge18 1 0
+chrome83.0.4103.97 6 6
+chrome125.0.6422.26 31 2
+chrome138.0.7204.23 538 23
+chrome17.0.963.56 3 2
+chrome105.0.0.0 2 1
+opera120.0.0.0 615 374
+firefox38.0 3 0
+chrome117.0.5938.132 112 6
+chrome91.0.4472.114 2 2
+chrome137.0.0.0 54 3
+safari18.0.1 6 2
+safari 165 9
+chrome79.0.3945.79 106 6
+safari15.4 53 3
+chrome83.0.4103.61 24 4
+chrome111.0.5563.65 1 1
+firefox33.0 8 8
+chrome112.0.0.0 52 2
+safari7.0.3 5 0
+chrome135.0.0.0 106 4
+chrome33.0.1750.152 1 1
+firefox45.0 1 1
+chrome111.0.0.0 9 9
+chrome113.0.0.0 53 3
+chrome114.0.5775.194 13 5
+chrome86.0.4240.111 1 1
+msie11 1 0
+chrome114.0.0.0 49 2
+iphone 55 6
+firefox116.0 1 1
+chrome77.0.3865.120 1 1
+safari18.5 10 4
+firefox56.0 1 1
+edge12 1 1
+firefox123 1 1
+safari18.6 27 4
+chrome103.0.5060.66 49 2
+chrome122.0.0.0 47 3
+chrome131.0.0.0 3311 214
+chrome116.0.0.0 9 9
+chrome57.0.2983 1 1
+chrome138.0.7204.97 53 2
+chrome115.0.0.0 2 1
+chrome92.0.4515.107 4 4
+netscape5.0 9 9
+firefox133.0 143 8
+chrome121.0.0.0 36 4
+chrome132.0.0.0 290 14
+chrome87.0.4280.88 1 1
+firefox124.0 1 1
+firefox109.0 53 2
+chrome76.0.3809.132 2 2
+firefox120.0 16 15
+chrome79.0.3945.130 1 1
+chrome28.0.1467.0 1 1
+safari18.1.1 1 1
+chrome134.0.0.0 1 1
+chrome125.0.6422.60 106 6
+chrome130.0.0.0 192 14
+chrome117.0.0.0 70 12
+chrome78.0.3904.108 12 12
+chrome99.0.4844.84 1 0
+chrome129.0.0.0 18 3
+firefox83.0 1 1
+chrome128.0.0.0 97 18
+chrome120.0.0.0 3 2
+chrome139.0.0.0 3217 1555
+mozilla 6 4
+chrome66.0.3359.181 31 31
+chrome102.0.0.0 431 27
+chrome58.0.3029.110 1 1
+chrome138.0.0.0 209 16
+firefox50.0 5 1
+firefox126.1 2 0
+Unknown 48 28
+chrome45.0.2454.85 155 8
+chrome115.0.5810.222 6 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250821192945
+WhatsApp/2.2532.3_W 20250826095810
+Mozilla/5.0 20250819002250
+Python/3.13_aiohttp/3.12.13 20250828204938
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250817013020
+Mozilla/5.0_Firefox/33.0 20250816065225
+Python/3.9_aiohttp/3.8.1 20250815165857
+okhttp/4.9.2 20250825012216
+Mozilla/5.0_zgrab/0.x 20250826071629
+python-httpx/0.28.1 20250819050745
+WhatsApp/2.23.20.0 20250826123938
+python-requests/2.25.1 20250815070303
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WhatsApp/2.23.20.0 20250826123938
+python-requests/2.25.1 20250815070303
+WhatsApp/2.2532.3_W 20250826095810
+Python/3.9_aiohttp/3.8.1 20250815165857
+okhttp/4.9.2 20250825012216
+python-httpx/0.28.1 20250819050745
+Python/3.13_aiohttp/3.12.13 20250828204938
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 504 749
+From1 1 1
+From2 12 14
+From3 497 702
+From4 1522 9294
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_bing_com 4 4
+www_google_ie 1 1
+bing_com_catchall 1 1
+www_google_com 6 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+https://cpanel.cimun.cl/cpsess8411631315/frontend/jupiter/filemanager/index.html 239 257
+https://cpanel.cimun.cl/cpsess8411631315/3rdparty/phpMyAdmin/index.php 150 205
+https://cpanel.cimun.cl/cpsess8411631315/frontend/jupiter/filemanager/editit.html 53 66
+https://cpanel.cimun.cl 32 61
+https://cpanel.cimun.cl/cPanel_magic_revision_1754444430/frontend/jupiter/_assets/css/master-ltr.cmb.min.css 5 5
+https://brouter.cl:2087 4 4
+https://cpanel.cimun.cl/cPanel_magic_revision_1648610195/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/open_sans.min.css 3 3
+https://brouter.cl:2083 3 3
+https://cpanel.cimun.cl/unprotected/loader.html 2 2
+https://cpanel.cimun.cl/cPanel_magic_revision_1714421975/frontend/jupiter/styles/fonts.min.css 2 2
+https://cpanel.cimun.cl/cPanel_magic_revision_1738602305/frontend/jupiter/libraries/fontawesome/css/all.min.css 2 2
+https://cpanel.cimun.cl/cPanel_magic_revision_1731953507/frontend/jupiter/libraries/bootstrap/optimized/css/bootstrap.min.css 1 1
+https://cpanel.cimun.cl/unprotected/redirect.html 1 1
+https://cpanel.cimun.cl/cPanel_magic_revision_1714422030/unprotected/cpanel-legacy/style_optimized.css 0 6
+https://cpanel.cimun.cl/cPanel_magic_revision_1656366623/frontend/jupiter/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.cimun.cl/cpsess8411631315/frontend/jupiter/index.html 0 1
+https://cpanel.cimun.cl/cPanel_magic_revision_1749606095/frontend/jupiter/assets/application_icons/sprites/icon_spritemap.css 0 1
+https://cpanel.cimun.cl/cPanel_magic_revision_1714422029/cjt/css/ajaxapp-min.css 0 4
+https://cpanel.cimun.cl/cPanel_magic_revision_1714422030/frontend/jupiter/filemanager/css/tree_styles2_optimized.css 0 1
+https://cpanel.cimun.cl/cpsess8411631315/3rdparty/phpMyAdmin/themes/pmahomme/css/theme.css 0 75
+https://cpanel.cimun.cl/cPanel_magic_revision_1731955053/yui/datatable/assets/skins/sam/datatable.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 14
+308 1 85
+307 1 167
+405 4 1049774
+201 14 10602
+302 129 46950
+101 6 0
+403 10 66030
+419 11 72699
+421 1 322
+401 2 89
+400 2 104
+404 662 3981609
+301 323 74003
+500 203 66440311
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 306
+/app/aws_credentials.php 1 -
+/public/assets/vendor/tabler-icons/tabler-icons.css.map 1 -
+//test/wp-includes/wlwmanifest.xml 7 -
+/password_reset 1 https://www.cimun.cl/index
+/terraform.tfstate.backup 1 -
+/docker-compose.yml 1 -
+/users/assets/svg/_sprite.svg 4 https://www.cimun.cl/users/1/positions
+/etc/aws/credentials 1 -
+/public/config/aws_credentials.php 1 -
+/tests/AwsIntegrationTest.php 1 -
+/.vscode/settings.json 1 -
+/config/aws_local.php 1 -
+/sitemap.xml 9 http://cimun.cl/sitemap.xml
+/config/secrets.yaml 1 -
+/~/.aws-mfa/credentials 1 -
+/opt/aws/credentials 1 -
+/config/aws-credentials.php 1 -
+/phpinfo=1 1 -
+/config/.env 3 -
+/assets/images/dashboard/ecommerce-dashboard/product/product-02.jpg 2 https://cimun.cl/public/
+/incidencias/assets/customizer.txt 10 https://www.cimun.cl/incidencias/3/comments
+/tmp/aws_session_token 1 -
+/test.php 1 -
+/tests/AwsServiceTest.php 1 -
+/../assets/images/logo/1.png 1 -
+/backend/.env 1 -
+/events/assets/images/logo/favicon.png 3 https://www.cimun.cl/events/4/edit
+/js/lkk_ch.js 2 https://cimun.cl/js/lkk_ch.js
+/secrets/.aws-credentials 1 -
+/.env.stage 1 -
+/resources/.env 1 -
+//site/wp-includes/wlwmanifest.xml 7 -
+/assets/vendor/bootstrap/bootstrap.min.css.map 13 -
+/docker-compose.override.yml 1 -
+/assets/vendor/kanban_board/hammer.min.js.map 1 -
+/var/cache/aws 1 -
+/app/Config/aws_keys.php 1 -
+/assets/vendor/tabler-icons/tabler-icons.css.map 13 -
+/app/config.php 1 -
+/app/Secrets/aws_credentials.php 1 -
+/assets/images/modals/welcome-bg.png 2 https://cimun.cl/public/
+/public/contacto 2 -
+/var/log/awslogs.log 1 -
+/phpinfo.php 2 -
+/assets/svg/_sprite.svg 2 https://cimun.cl/public/
+/assets/images/logo/LOGOCIMUN1.png 1 https://www.cimun.cl/login
+/app-ads.txt 2 -
+/.env.dev 1 -
+/config/aws_credentials_local.php 1 -
+/~/.aws-vault/keys 1 -
+/assets/images/alert/cookie-.png 1 -
+/public/https:/www.cimun.cl/https:/www.cimun.cl/https:/www.cimun.cl 3 -
+/.kube/config 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/product-01.jpg 2 https://cimun.cl/public/
+/config/settings.php 1 -
+/dump.sql 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/01.png 2 https://cimun.cl/public/
+/public/assets/vendor/bootstrap/bootstrap.bundle.min.js.map 1 -
+/users/1/assets/svg/_sprite.svg 4 https://www.cimun.cl/users/1/positions/assign
+/users/assets/customizer.txt 4 https://www.cimun.cl/users/1/positions
+/assets/images/header/cart/01.png 2 https://cimun.cl/public/
+/config/config.env 1 -
+/assets/images/header/cart/05.png 2 https://cimun.cl/public/
+/assets/images/avatar/woman.jng 1 https://www.cimun.cl/profile/edit
+/config/credentials.yaml 1 -
+/config/parameters_local.php 1 -
+/assets/vendor/dual_listboxes/dual_list_box.js 1 -
+/.git-credentials 1 -
+/assets/js/project_details.html 1 -
+/assets/images/avatar/2.png 2 https://cimun.cl/public/
+/ci/.env 1 -
+/config/parameters.yml 1 -
+/aws/credentials 1 -
+/secrets.yml 1 -
+/app/Config/aws_credentials.php 1 -
+/index 5 -
+/.gitlab-ci.yml 1 -
+/build/assets/kids-offer-DjPfaMIp.png 2 https://cimun.cl/public/build/assets/style-Cuxwy5N_.css
+/config/aws.json 1 -
+/public/aws_config.php 1 -
+/config/aws-credentials.yml 1 -
+/assets/vendor/block-ui/'+opts.iframeSrc+' 1 -
+/assets/vendor/rating/jquery.barrating.min.js.map 1 -
+/phpinfo 2 -
+/config/parameters.php 1 -
+/assets/images/login/LOGOCIMUN.png 7 https://www.cimun.cl/login
+//wp1/wp-includes/wlwmanifest.xml 7 -
+/sm/e1ebbfe1bf0b0061f0726ebc83434e1c2f8308e6354c415fd05ecccdaad47617.map 1 -
+/logs/debug.log 1 -
+/sellers.json 2 -
+/config.json 1 -
+/assets/images/alert/warning.png 1 -
+/blog 1 -
+/public/aws_credentials.php 1 -
+/.circleci/config.yml 1 -
+/assets/images/header/cart/03.png 2 https://cimun.cl/public/
+/tmp/.aws 1 -
+/app/.env 1 -
+/incidencias/assets/svg/_sprite.svg 10 https://www.cimun.cl/incidencias/3/comments
+/tool/view/phpinfo.view.php 2 -
+/backup.zip 1 -
+/~/.aws-sso/cache 1 -
+//media/wp-includes/wlwmanifest.xml 6 -
+/.git/config 3 -
+/config/config.php 1 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/api/tickets/export 1 https://www.cimun.cl/incidencias
+/.env.example 1 -
+/.travis.yml 1 -
+//news/wp-includes/wlwmanifest.xml 6 -
+/config/parameters.local.yml 1 -
+/events/assets/customizer.txt 6 https://www.cimun.cl/events/4/edit
+/config/dev/aws.yml 1 -
+/.aws/credentials 1 -
+/.aws_secret 1 -
+/.aws_keys 1 -
+/positions/assets/customizer.txt 12 https://www.cimun.cl/positions/1/edit
+/tests/aws_keys.php 1 -
+/~/.terraform.d/credentials.tfrc.json 1 -
+/area/create 1 -
+/security.txt 1 -
+/../assets/images/logo/favicon.png 11 -
+/public/assets/vendor/bootstrap/bootstrap.min.css.map 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/03.png 2 https://cimun.cl/public/
+/app/Providers/AwsServiceProvider.php 1 -
+/var/log/cloud-init.log 1 -
+/database.sql 1 -
+/app/Secrets/aws_keys.php 1 -
+/app/Config/credentials.php 1 -
+/.env.production.local 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/.saml2aws 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/07.png 2 https://cimun.cl/public/
+/bootstrap/cache/config.php 1 -
+/logs/app.log 1 -
+/config/.env.local 1 -
+/config/parameters_local_aws.php 1 -
+/secrets.json 1 -
+//wp-includes/ID3/license.txt 1 -
+/ci/env 1 -
+/sign_in_1 2 https://www.cimun.cl/index
+/public/.git 1 https://www.cimun.cl/.git/
+/.env.prod 1 -
+/tests/aws_credentials.php 1 -
+/tmp/aws_creds 1 -
+/*.tfvars.json 1 -
+/app_dev.php/_profiler/phpinfo 1 -
+/incidencias/assets/images/logo/favicon.png 1 https://www.cimun.cl/incidencias/3/comments
+/assets/images/dashboard/ecommerce-dashboard/product/product-05.jpg 2 https://cimun.cl/public/
+/assets/images/logo/03.png 1 -
+/tests/aws.php 1 -
+/config/parameters_aws.php 1 -
+/public/config/secrets.php 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/product-03.jpg 2 https://cimun.cl/public/
+/terraform.tfstate 1 -
+/app/Services/AwsService.php 1 -
+/movie.ogg 1 -
+/public/assets/vendor/prism/prism.min.css.map 1 -
+/.env 4 -
+/assets/vendor/leafletmaps/leaflet.js.map 1 -
+/config/config.json 1 -
+/assets/js/$%7Bfiles 1 -
+//shop/wp-includes/wlwmanifest.xml 7 -
+/app/Config.php 1 -
+/.docker/config.json 1 -
+/config/aws_sdk.php 1 -
+/info.php 2 -
+/default-avatar.png 6 https://www.cimun.cl/profile/edit
+/public/credentials.php 1 -
+/config/env.php 1 -
+/admin/.env 1 -
+/assets/images/dashboard/ecommerce-dashboard/order1.gif 2 https://cimun.cl/public/
+/tests/aws_test.php 1 -
+/public/aws.php 1 -
+/api/.env 3 -
+/assets/images/header/cart/04.png 2 https://cimun.cl/public/
+/assets/images/header/cart/02.png 2 https://cimun.cl/public/
+/app/Secrets/aws.php 1 -
+/config/aws_secrets.php 1 -
+/credentials.json 1 -
+/config/secrets.json 1 -
+/public/.github/workflows 1 -
+//wordpress/wp-includes/wlwmanifest.xml 7 -
+/assets/images/logo/1.png 2 https://cimun.cl/public/
+/config/database.php 1 -
+//wp2/wp-includes/wlwmanifest.xml 6 -
+/assets/js/ticket_details.html 1 -
+/backup.tar.gz 1 -
+/public/https:/www.cimun.cl 4 -
+/https:/www.cimun.cl/https%3A/www.cimun.cl/public/https%3A/www.cimun.cl 3 -
+/.env.local.php 2 -
+/assets/images/logo/favicon.png 1 https://cimun.cl/public/
+/deploy/aws_credentials 1 -
+/.dockerignore 1 -
+/config/services.php 1 -
+/~/.aws-iam-authenticator/credentials 1 -
+/assets/images/profile-app/default-avatar.png 8 https://www.cimun.cl/profile/edit
+/build/assets/location-bg-Bvu12QAG.jpg 2 https://cimun.cl/public/build/assets/style-Cuxwy5N_.css
+/sign_in 4 https://www.cimun.cl/index
+//xmlrpc.php 7 -
+/~/.aws/credentials-backup 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/06.png 2 https://cimun.cl/public/
+/users 2 -
+/assets/images/dashboard/ecommerce-dashboard/product/04.png 2 https://cimun.cl/public/
+/public/config/aws.php 1 -
+/assets/vendor/chartjs/chart.umd.js.map 1 -
+/app/aws.php 1 -
+/assets/vendor/prism/prism.min.css.map 13 -
+/scripts/.aws_credentials 1 -
+/config/aws.yml 1 -
+/config/constants.php 1 -
+/build/images/dashboard/project/payment-card-bg.jpg 1 -
+/users/1/assets/images/logo/favicon.png 2 https://www.cimun.cl/users/1/positions/assign
+/.env.testing 1 -
+/server/.env 1 -
+//blog/wp-includes/wlwmanifest.xml 7 -
+/docker-compose.dev.yml 1 -
+//wp-includes/wlwmanifest.xml 6 -
+/secrets.env 1 -
+/login 1 -
+/favicon.png 13 -
+/.env.bak 1 -
+//2018/wp-includes/wlwmanifest.xml 6 -
+/tests/aws_config.php 1 -
+/_profiler/phpinfo 2 -
+/a 1 -
+/assets/vendor/jstree/'+c+' 1 -
+/.env.local 1 -
+/terraform.tfvars 1 -
+/.gitignore 1 -
+/public/assets/images/logo/ 1 https://www.cimun.cl/dashboard
+/.env.test 1 -
+/.env.old 1 -
+/config/settings.ini 1 -
+/images/profile-app/default-avatar.png 3 https://www.cimun.cl/profile/edit
+/position 1 -
+/assets/images/dashboard/project/no-data.png 5 -
+/users/1/assets/customizer.txt 4 https://www.cimun.cl/users/1/positions/assign
+//website/wp-includes/wlwmanifest.xml 6 -
+/ads.txt 7 -
+/.aws/config 1 -
+/.env.production 1 -
+/scripts/aws.env 1 -
+//cms/wp-includes/wlwmanifest.xml 7 -
+//wp/wp-includes/wlwmanifest.xml 7 -
+/db.sql 1 -
+/positions/assets/images/logo/favicon.png 5 https://www.cimun.cl/positions/1/edit
+//2019/wp-includes/wlwmanifest.xml 7 -
+/assets/images/avatar/5.png 2 https://cimun.cl/public/
+//web/wp-includes/wlwmanifest.xml 7 -
+/events/assets/svg/_sprite.svg 6 https://www.cimun.cl/events/4/edit
+/assets/images/dashboard/ecommerce-dashboard/product/02.png 2 https://cimun.cl/public/
+/var/tmp/aws_session 1 -
+/*.tfvars 1 -
+/assets/js/$%7Bfiles.length 1 -
+/.DS_Store 1 -
+/sign_up 1 https://www.cimun.cl/index
+/positions/assign 1 -
+/build/assets/02-RulLIf5W.png 2 https://cimun.cl/public/build/assets/style-Cuxwy5N_.css
+/config/secrets.yml 1 -
+/apps/.env 1 -
+/debug.log 1 -
+/config.yml 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/product-06.jpg 2 https://cimun.cl/public/
+/users/assets/images/logo/favicon.png 2 https://www.cimun.cl/users/1/positions
+/etc/aws/config 1 -
+/app/Config/aws.php 1 -
+/assets/js/$%7Bfile%7D 1 -
+/.awsconfig 1 -
+/calendar 1 https://www.cimun.cl/events/create
+/assets/customizer.txt 2 https://cimun.cl/public/
+/public/assets/vendor/phosphor/ 2 https://www.cimun.cl/forgot-password
+/assets/vendor/shepherdjs/shepherd.js.map 1 -
+/docker-compose.prod.yml 1 -
+/assets/vendor/bootstrap/bootstrap.bundle.min.js.map 14 -
+/config.yaml 1 -
+/assets/images/modals/welcome-rocket.png 2 https://cimun.cl/public/
+/.env.development 1 -
+/app/Services/AwsConfig.php 1 -
+/.idea/workspace.xml 1 -
+/assets/images/avatar/woman.jpg 2 https://cimun.cl/public/
+/app/Config/aws_secrets.php 1 -
+/llms.txt 2 -
+/error.log 1 -
+/assets/images/dashboard/ecommerce-dashboard/product/product-04.jpg 2 https://cimun.cl/public/
+/public/~/.awsvault 1 -
+/assets/images/avatar/default.png 7 https://www.cimun.cl/dashboard
+/config/aws_credentials.php 1 -
+/public/secrets.php 1 -
+/.aws-credentials 1 -
+/.backup 1 -
+/config/aws.php 1 -
+/assets/js/read_email.html 1 -
+/tests/aws_secrets.php 1 -
+/.vault-token 1 -
+/assets/vendor/googlemap/gmaps.min.js.map 1 -
+//sito/wp-includes/wlwmanifest.xml 6 -
+/profile/index 1 -
+/js/twint_ch.js 2 https://cimun.cl/js/twint_ch.js
+/config/aws-credentials.json 1 -
+/.aws.env 2 -
+/app/Config/secrets.php 1 -
+/positions/assets/svg/_sprite.svg 12 https://www.cimun.cl/positions/1/edit
+/assets/vendor/listJs/list.min.js.map 1 -
+/assets/images/profile-app/fondo.png 3 https://www.cimun.cl/profile/edit
+/var/log/secure 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 316
+146.83.123.235 559 796 13041160 20250826205326
+181.42.144.6 491 1514 91788607 20250825212053
+179.60.65.157 440 826 56758423 20250820184126
+181.42.163.88 226 289 16154387 20250828162241
+181.160.149.4 66 142 12823113 20250821121020
+181.200.166.120 51 57 6263343 20250828120742
+190.44.59.175 27 31 1479446 20250827163733
+191.118.145.161 17 18 882834 20250828211010
+152.173.249.19 17 24 790761 20250829204741
+191.116.226.250 16 52 5168724 20250821151006
+181.200.179.86 11 42 4573006 20250826124506
+190.5.37.245 11 86 9202956 20250816050918
+188.166.252.0 10 10 928000 20250825132440
+5.161.233.172 10 77 9469664 20250816112950
+181.43.215.238 9 9 779183 20250815041652
+152.53.242.88 9 150 13959001 20250816134325
+57.129.4.123 8 122 11022747 20250814235211
+181.42.245.252 7 37 4368785 20250821145607
+5.161.251.151 6 95 9739762 20250816113303
+38.54.20.142 6 12 525399 20250820125600
+5.161.251.118 6 107 10445224 20250816130500
+5.161.251.140 6 34 3282828 20250816112753
+152.53.169.91 6 89 8862775 20250816115339
+181.160.141.102 5 6 294983 20250826124937
+54.37.10.247 5 64 7122284 20250814235216
+44.222.97.204 2 49 7675315 20250816022524
+157.173.122.176 1 1 37404 20250825205249
+205.169.39.71 2 2 74808 20250824203355
+54.184.139.125 2 2 213298 20250818070747
+149.88.104.235 2 6 243028 20250815170122
+5.161.251.153 2 28 5620497 20250816112746
+54.158.207.32 2 4 187757 20250820012118
+64.15.129.110 1 1 106649 20250815042853
+5.161.251.100 2 28 3170442 20250816113233
+5.161.251.152 2 38 3408169 20250816112141
+34.122.147.229 0 26 3760124 
+149.57.180.112 1 1 106649 20250816014440
+185.66.136.95 0 6 2681554 
+216.169.133.47 1 1 37404 20250821072911
+5.161.251.108 2 46 4615215 20250816111720
+149.88.104.243 3 7 349677 20250815050749
+3.146.111.124 1 1 37404 20250826071629
+64.15.129.117 1 1 106649 20250815042852
+5.161.251.107 4 82 6614471 20250816112936
+186.79.129.13 1 2 41045 20250820191459
+152.53.169.224 2 14 2667038 20250816113917
+205.169.39.23 2 55 8065536 20250815010834
+123.6.49.49 1 1 106649 20250817231654
+152.53.169.227 2 33 3222990 20250816114406
+44.248.33.232 2 2 213298 20250816075030
+18.237.66.227 1 1 37404 20250831095151
+185.247.137.198 0 1 610 
+5.161.251.111 2 37 3201744 20250816135639
+13.223.247.242 3 55 8171994 20250815011552
+35.88.129.251 2 2 74808 20250825073119
+205.169.39.3 1 1 37404 20250827063439
+45.149.148.30 0 8 626427 
+3.95.154.205 0 1 610 
+186.11.119.242 1 2 41045 20250826123951
+40.80.158.10 2 53 8064735 20250816032018
+54.149.186.242 1 1 106649 20250816172548
+34.212.28.84 0 1 89949 
+185.247.137.102 1 1 106649 20250816040708
+23.27.145.64 1 1 53619 20250820020816
+110.172.98.2 1 1 106649 20250814234249
+205.169.39.103 3 63 8996994 20250815011531
+83.229.37.6 0 10 2489786 
+35.91.112.54 1 1 37404 20250823081008
+54.188.193.124 1 1 37404 20250822053214
+34.90.20.41 1 1 106649 20250815015714
+5.161.178.85 3 27 4618602 20250816113207
+54.200.45.1 1 1 106649 20250816051904
+23.249.164.127 0 17 1806680 
+5.161.251.132 4 65 6805483 20250816113228
+123.6.49.36 0 1 610 
+35.89.142.42 1 1 106649 20250817064530
+152.53.169.135 5 34 3620310 20250816114115
+47.100.236.99 1 1 37404 20250821160932
+190.208.14.72 2 28 5094318 20250821145528
+46.232.208.236 0 8 2843387 
+5.161.93.66 3 57 5388118 20250816112559
+23.234.69.30 1 1 106649 20250815011522
+210.3.89.91 4 4 107238 20250819002250
+3.228.25.60 2 4 82090 20250825012238
+3.238.163.70 0 1 610 
+35.90.149.225 2 2 74808 20250829072902
+104.232.194.113 1 1 106649 20250815025751
+5.161.225.121 2 35 3220379 20250816111728
+5.161.185.45 2 31 3212405 20250816113201
+5.161.64.44 4 72 6438734 20250816143622
+80.82.70.198 1 10 1290196 20250815165927
+152.53.171.193 2 28 3167616 20250816154600
+5.161.243.51 4 72 8149696 20250816112842
+104.234.7.232 1 1 106649 20250815151007
+93.174.93.114 2 35 5256074 20250815170032
+205.169.39.6 2 55 8065536 20250815011527
+152.53.169.85 2 38 3800816 20250816120804
+45.87.51.109 1 1 53619 20250819201653
+104.194.200.2 1 1 106649 20250815021107
+40.160.21.14 4 4 472171 20250817211030
+79.142.77.74 1 3 121514 20250815170121
+122.249.73.91 1 1 106649 20250816050925
+45.10.215.156 1 1 106649 20250815042929
+35.162.144.141 1 1 37404 20250829050922
+205.169.39.220 3 63 8996994 20250815010958
+195.201.168.79 1 1 53619 20250819221249
+51.38.135.19 4 76 11463857 20250814235216
+54.146.190.255 3 55 8171994 20250815013142
+54.201.219.58 0 1 74443 
+152.53.171.10 2 28 3179437 20250816115756
+5.161.251.158 1 15 2565198 20250816142110
+154.28.229.9 1 1 106649 20250815014949
+5.161.251.141 3 30 3484369 20250816111649
+5.161.108.123 2 31 3680109 20250816130637
+34.220.125.63 2 2 74808 20250827072112
+210.64.24.100 3 3 128427 20250828204938
+23.27.145.58 1 1 37404 20250823021014
+5.161.251.103 3 36 3735743 20250816113225
+45.84.107.17 1 2 120904 20250815170122
+5.161.251.139 5 38 4124586 20250816112415
+15.204.161.7 2 2 158314 20250817205658
+213.139.9.149 2 54 8078990 20250815170741
+34.248.137.227 4 56 8278643 20250815022358
+154.28.229.247 2 2 213298 20250815022111
+98.80.65.147 0 1 610 
+5.161.251.102 3 30 5206549 20250816112958
+15.204.182.106 4 4 426596 20250817015940
+23.27.145.190 1 1 37404 20250822104721
+5.161.251.124 2 52 7683741 20250816094026
+5.161.59.118 1 15 2587157 20250816140747
+146.70.172.239 1 1 106649 20250815165857
+152.53.171.84 3 91 4322784 20250816113811
+35.93.64.166 2 2 74808 20250826091608
+5.161.251.137 4 42 5830841 20250816125741
+103.131.95.72 1 1 106649 20250816050619
+5.161.249.215 4 45 5831771 20250816113914
+195.201.111.82 2 5 233220 20250819221334
+104.194.200.90 1 1 106649 20250815020602
+34.217.91.193 0 1 5584 
+212.143.94.254 3 47 6744535 20250815170119
+152.53.81.38 2 31 3680386 20250816121236
+190.208.14.70 1 1 37404 20250821112752
+205.169.39.0 1 1 37404 20250824203204
+152.53.170.9 2 35 3261448 20250816121500
+51.75.162.18 5 97 13536695 20250814235216
+35.167.91.127 2 2 213298 20250815021936
+8.36.86.53 2 2 213298 20250816064902
+152.53.169.231 3 86 5659376 20250816140343
+45.135.137.59 1 1 106649 20250817123444
+100.21.218.158 2 53 8064735 20250815010758
+5.161.251.121 5 75 6752970 20250816130020
+152.53.169.82 2 29 3206298 20250816115945
+104.252.191.54 1 1 106649 20250815010526
+149.57.180.153 1 1 106649 20250817015133
+5.161.247.57 3 43 5146996 20250816113009
+152.53.169.122 4 65 7097945 20250816121001
+5.161.251.138 2 31 3275540 20250816130253
+37.156.216.152 1 1 53619 20250820125519
+23.27.145.89 1 1 37404 20250826021830
+44.247.121.61 2 2 74808 20250821070551
+149.57.180.12 1 1 37404 20250825102611
+190.208.14.68 1 14 2547159 20250821145521
+34.72.176.129 2 32 5266498 20250815011813
+5.161.251.156 2 31 3309852 20250816112316
+64.15.129.105 1 1 106649 20250815042846
+54.196.66.203 2 4 187757 20250820013332
+213.209.143.116 1 1 106649 20250816153213
+52.202.103.238 2 53 8064735 20250817123826
+44.251.6.169 2 2 74808 20250821070641
+35.89.140.197 1 1 37404 20250822053216
+104.232.194.139 1 1 106649 20250815023200
+87.236.176.97 1 1 106649 20250817013017
+104.232.195.135 1 1 106649 20250815030259
+207.230.105.13 1 1 106649 20250816123932
+154.210.100.38 1 1 106649 20250815024215
+185.177.72.5 1 9 762251 20250817022131
+38.170.190.157 1 1 8192 20250819201651
+104.168.71.110 2 54 8065345 20250815010910
+5.101.64.6 2 21 2317230 20250815170040
+34.123.170.104 0 27 4681811 
+157.230.71.9 1 3 121514 20250815050710
+47.100.230.178 1 1 37404 20250821160934
+154.28.229.37 1 1 106649 20250815010525
+49.12.147.139 1 1 106649 20250815170055
+95.215.0.144 1 17 3139831 20250815170033
+152.53.171.125 4 36 3579562 20250816132526
+154.210.100.225 1 1 106649 20250815022741
+54.68.145.111 4 104 16128250 20250815021948
+138.201.135.169 1 3 134138 20250819221340
+52.41.184.147 0 1 10442 
+104.232.194.49 1 1 106649 20250815024723
+185.159.158.115 2 52 8064125 20250815165832
+104.252.191.3 2 2 213298 20250815015009
+152.53.168.94 2 41 3295717 20250816114633
+23.27.145.13 1 1 106649 20250815095200
+217.194.152.128 0 7 1027242 
+5.133.192.94 1 2 41045 20250827210215
+34.219.51.186 1 1 37404 20250827050841
+152.53.171.210 4 74 3781121 20250816135358
+104.164.173.240 1 1 106649 20250815023119
+44.192.116.49 2 53 8064735 20250817123709
+13.220.27.181 3 55 8171994 20250815013241
+47.101.160.5 1 1 37404 20250821160931
+18.236.144.38 2 2 74808 20250822081934
+123.6.49.46 1 1 106649 20250817231922
+104.232.195.42 1 1 106649 20250815025304
+165.154.36.105 1 1 106649 20250817162200
+185.177.72.23 1 2 88675 20250819050743
+151.115.89.143 4 110 16131910 20250816093639
+34.41.237.48 1 1 106649 20250815023409
+45.84.107.172 0 1 610 
+152.53.169.47 2 35 3256841 20250816120317
+46.161.50.108 0 15 2713713 
+98.85.250.247 3 55 8171994 20250815014448
+18.237.190.117 2 2 74808 20250824080757
+146.70.185.32 1 1 0 20250815054144
+104.194.200.217 1 1 106649 20250815023807
+205.169.39.127 2 2 74808 20250827063150
+103.196.9.9 1 1 106649 20250815130626
+94.176.94.62 1 9 775938 20250815010713
+148.251.185.39 0 2 1220 
+204.101.161.15 3 53 8170774 20250815235051
+152.53.242.6 4 75 6838876 20250816145213
+44.227.127.2 2 53 8064735 20250815011049
+34.216.250.230 2 2 74808 20250829072657
+52.43.23.62 0 2 493939 
+155.254.45.132 1 1 106649 20250815012224
+34.82.217.13 1 48 7019375 20250815171903
+23.105.1.16 5 10 646485 20250816131848
+5.161.251.154 2 40 3657008 20250816123922
+152.53.171.232 2 29 3178824 20250816114840
+104.232.194.81 1 1 106649 20250815022457
+5.161.251.113 2 28 3187078 20250816112459
+192.36.109.78 1 1 106649 20250815025824
+152.53.171.69 2 31 3682619 20250816120102
+52.13.98.50 1 1 106649 20250815030402
+35.173.185.80 2 2 213298 20250816020427
+5.161.251.147 2 53 8064735 20250816112916
+3.90.207.224 3 55 8171994 20250815193624
+149.57.180.56 1 1 106649 20250817102404
+193.31.32.190 1 1 106649 20250815042933
+149.57.180.155 1 1 53619 20250819104024
+152.53.171.30 2 28 3169151 20250816115240
+104.232.194.241 1 1 106649 20250815020020
+94.176.49.183 0 10 541169 
+44.246.230.225 0 1 4092 
+5.161.251.116 4 89 7356468 20250816112217
+200.73.124.137 2 52 8064125 20250818114920
+190.208.14.8 1 14 2570124 20250821145907
+100.27.209.104 3 55 8171994 20250815132204
+152.53.170.197 4 69 6431690 20250816120458
+104.197.69.115 4 21 2494625 20250827063212
+152.53.168.51 4 44 5878544 20250816121305
+61.115.12.244 1 1 106649 20250815192837
+167.94.138.42 1 1 37404 20250821192945
+167.114.3.106 5 72 10353057 20250814235213
+5.161.66.195 2 44 3428436 20250816112227
+34.217.80.100 2 2 74808 20250828065310
+149.57.180.14 2 3 78449 20250823040128
+62.141.44.236 1 1 106649 20250815213311
+5.161.251.145 5 58 6675806 20250816130656
+5.161.251.119 4 66 6577816 20250816112644
+47.100.50.232 1 1 37404 20250821160935
+152.53.168.100 3 37 3622816 20250816114244
+154.30.105.230 0 1 610 
+94.102.49.123 1 27 4672937 20250815165940
+8.36.86.57 4 4 426596 20250816065225
+5.161.251.123 2 32 3741970 20250816112635
+23.27.145.237 1 1 37404 20250830030437
+18.237.30.206 2 2 107238 20250820063738
+157.143.53.238 2 47 6090154 20250815165858
+159.203.165.83 1 1 968 20250827002622
+3.91.157.70 3 55 8171994 20250815052252
+87.236.176.181 0 1 610 
+159.89.8.50 1 2 41045 20250829220655
+94.102.49.206 0 8 876291 
+104.164.173.176 2 2 213298 20250815023125
+94.102.63.27 1 22 3725175 20250815165934
+5.161.59.48 4 60 6392819 20250816144325
+5.161.251.22 4 319 9568400 20250816112431
+23.27.145.18 1 1 106649 20250818021019
+192.175.111.248 2 2 213298 20250815042854
+104.194.200.62 1 1 106649 20250815021615
+94.247.172.129 4 4 288106 20250830090613
+44.201.201.23 2 49 7675315 20250816022532
+190.196.168.128 1 3 121514 20250815013459
+34.217.87.210 2 54 8065345 20250818155559
+5.161.251.110 4 34 3730006 20250816112628
+206.41.177.145 1 11 1528625 20250815170106
+23.27.145.65 1 1 106649 20250816100901
+107.172.195.171 1 1 106649 20250815090348
+104.164.126.112 1 1 106649 20250815022052
+34.219.4.74 0 1 80669 
+216.170.123.239 1 9 1213012 20250815170109
+47.237.2.169 1 1 53619 20250820021209
+35.87.143.53 0 2 67102 
+52.5.222.205 1 1 106649 20250815070303
+152.53.170.135 2 28 3169002 20250816113112
+103.4.250.33 2 2 213298 20250815130631
+192.121.135.97 1 1 37404 20250826061134
+199.45.155.76 1 1 37404 20250821190100
+47.237.137.208 1 1 53619 20250820021209
+5.161.43.147 2 122 13525089 20250816124743
+45.142.98.106 1 13 596870 20250815010710
+35.173.234.150 3 55 8171994 20250815032346
+3.236.46.161 3 55 8171994 20250817012903
+34.212.106.38 2 2 74808 20250830082315
+192.104.34.34 1 1 53619 20250819161443
+8.36.86.50 2 2 213298 20250816063918
+179.60.72.20 1 1 37404 20250828193723
+5.161.251.101 2 28 3168224 20250816112141
+103.196.9.231 2 2 213298 20250815090401
+181.42.197.199 4 27 3874102 20250821114055
+152.53.170.32 2 31 3675070 20250816115648
+3.86.219.105 2 53 8064735 20250815174110
+3.88.49.111 3 55 8171994 20250815012554
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20250814 53 1067 84835730 7
+20250815 167 2012 290363871 95
+20250816 268 4044 406904691 103
+20250817 47 360 39226731 20
+20250818 349 844 76147021 11
+20250819 324 382 18248069 15
+20250820 222 371 19179858 14
+20250821 109 326 36895173 18
+20250822 7 7 261828 6
+20250823 4 5 153257 3
+20250824 6 6 224424 4
+20250825 39 42 1829143 9
+20250826 726 1044 29517746 13
+20250827 143 160 11186131 13
+20250828 44 54 2572019 6
+20250829 23 31 1018850 5
+20250830 4 4 149616 3
+20250831 1 1 37404 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 19
+0s-30s 272
+2mn-5mn 8
+30s-2mn 13
+5mn-15mn 11
+15mn-30mn 13
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 201
+/ 400 29224231 227 170
+/incidencias 373 35055755 2 8
+/dashboard 313 22961829 4 15
+/cpsess8411631315/json-api/cpanel 211 232791 0 0
+/assets/fonts/tabler/tabler-icons.woff2 161 102659396 5 109
+/cpsess8411631315/3rdparty/phpMyAdmin/index.php 140 689939 0 1
+/login 81 894766 12 3
+/profile 55 2667150 1 0
+/profile/edit 49 2590823 0 1
+/cpsess8411631315/download 45 2594240 0 0
+/positions 41 2504760 0 1
+/incidencias/3 38 1055033 1 2
+/cpsess8411631315/frontend/jupiter/filemanager/editit.html 36 421922 0 0
+/areas 36 1834839 3 1
+/register 33 357162 3 3
+/calendario 31 3705816 0 0
+/calendar 31 2416016 0 1
+/incidencias/9 25 472074 0 0
+/index 19 2026331 4 1
+/events/create 18 776192 0 1
+/incidencias/3/comments 17 414711 0 1
+/forgot-password 15 128532 0 0
+/assets/fonts/fontawesome/fa-solid-900.woff2 15 2248620 0 5
+/incidencias/2 13 451562 0 0
+/cpsess8411631315/3rdparty/phpMyAdmin/js/messages.php 12 108048 0 0
+/cpsess8411631315/frontend/jupiter/sql/PhpMyAdmin.html 1 96816 0 0
+/tabler_icons 1 1672985 1 0
+/public/add_product 1 93488 0 0
+/leaflet_map 1 76231 1 0
+/public/ 2 214786 0 0
+/alert 1 107762 0 0
+/cPanel_magic_revision_1754444430/frontend/jupiter/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 78260 0 0
+/input_masks 1 82570 0 0
+/file_manager 4 596344 1 0
+/helper_classes 3 343482 1 1
+/line_chart 2 149896 1 0
+/error_500 1 3144 0 0
+/error_403 1 3049 1 0
+/assets/fonts/weather/weathericons-regular-webfont.woff2 1 44720 0 0
+/maintenance 1 2890 1 0
+/assets/vendor/typeahead/data/nba.json 1 934 0 0
+/cPanel_magic_revision_1754444430/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/password_reset_1 1 4813 1 0
+/cpsess8411631315/execute/Personalization/get 8 1370 0 0
+/switch 1 80986 1 0
+/progress 1 110987 1 0
+/areas/1 3 0 0 0
+/cPanel_magic_revision_1754444430/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/events/4 1 42662 0 0
+/select 1 95783 1 0
+/cpsess8411631315/execute/ResourceUsage/get_usages 2 1111 0 0
+/sign_in 3 23187 0 0
+/events/1 1 45457 0 0
+/assets/vendor/typeahead/data/countries.json 1 3165 0 0
+/flag_icons 2 278268 1 0
+/cPanel_magic_revision_1754444430/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/slick_slider 3 271458 1 1
+/cpsess8411631315/frontend/jupiter/terminal/ 4 388888 0 0
+/animated_icon 1 227437 1 0
+/phosphor 1 1350647 1 0
+/kanban_board 1 88422 1 0
+/email 1 134539 0 0
+/setting 3 637911 1 0
+/gallery 1 43639 0 0
+/assets/vendor/typeahead/data/post_1960.json 1 6761 0 0
+/assets/vendor/typeahead/data/nhl.json 1 947 0 1
+/incidencias/1 6 1983 0 0
+/public/add_blog 1 79687 0 0
+/spinners 1 83469 1 0
+/scatter_chart 1 74435 0 0
+/product_details 1 99581 1 0
+/grid 1 99116 1 0
+/cpsess8411631315/frontend/jupiter/filemanager/ 1 18623 0 0
+/faq 1 98971 1 0
+/shadow 1 83717 1 0
+/heatmap 1 75478 1 0
+/cpsess8411631315/execute/Resellers/list_accounts 2 294 0 0
+/data_table 1 165629 0 0
+/public/privacy_policy 1 81058 0 0
+/cPanel_magic_revision_1648610195/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-ExtraBold-webfont.woff 1 23764 0 0
+/invoice 1 85992 1 0
+/assets/vendor/phosphor/Phosphor-Fill.woff2 1 90960 0 0
+/textarea 1 80493 0 0
+/assets/vendor/slick/fonts/slick.woff 7 9660 0 1
+/incidencias/7 2 40964 0 0
+/assets/vendor/phosphor/Phosphor-Duotone.woff2 1 128852 0 0
+/timeline 2 199722 1 0
+/unprotected/loader.html 1 905 0 0
+/unprotected/redirect.html 2 1026 0 0
+/footer_page 1 115946 0 0
+/cpsess8411631315/execute/SSL/installed_host 2 1417 0 0
+/radar_chart 1 74989 1 0
+/weather_icon 1 152681 1 0
+/password_create 1 5188 1 1
+/widget 3 270231 1 0
+/ticket 12 1974324 0 1
+/positions/1 6 215040 0 0
+/misc 3 269943 1 0
+/team 1 132834 1 0
+/events/2 6 269720 0 0
+/timeline_range_charts 1 76022 1 0
+/public/blog 1 103963 0 0
+/cpsess8411631315/execute/Notifications/get_notifications_count 7 574 0 0
+/offcanvas 1 87128 1 0
+/input_groups 1 96695 1 0
+/cpanel 4 138300 2 0
+/scrollbar 1 82098 1 0
+/ratings 1 92086 1 0
+/file_upload 1 80359 0 0
+/password_create_1 1 4638 0 1
+/ready_to_use_form 1 115056 1 0
+/iconoir_icon 2 652438 1 0
+/ribbons 1 87689 1 0
+/form_validation 1 91278 0 0
+/ready_to_use_table 1 241216 1 0
+/cPanel_magic_revision_1738602305/frontend/jupiter/libraries/fontawesome/webfonts/fa-regular-400.woff2 1 13224 0 0
+/touch_spin 1 88950 1 0
+/assets/vendor/phosphor/Phosphor.woff2 1 105964 0 0
+/product 1 132230 0 0
+/placeholder 2 167696 0 0
+/incidencias/8 6 212974 0 1
+/pricing 2 205842 2 0
+/fontawesome 2 444268 1 0
+/assets/vendor/phosphor/Phosphor-Thin.woff2 1 110992 0 0
+/tree-view 1 74536 1 0
+/events/4/edit 1 41697 0 0
+/password_reset 1 5680 1 1
+/form_wizard_2 2 364196 0 0
+/product_list 2 190214 0 1
+/modals 1 117944 0 0
+/error_503 1 3024 1 0
+/events/1/edit 4 181011 0 0
+/chart_js 1 78214 0 0
+/google_map 1 75999 0 0
+/error_404 1 3040 1 0
+/cPanel_magic_revision_1714421975/frontend/jupiter/styles/jupiter-styles/dist/scss/fonts/open-sans-regular.woff2 1 56348 0 0
+/error_400 2 6308 1 0
+/tooltips_popovers 1 79659 1 0
+/order_details 1 96191 0 0
+/project_details 1 102629 1 0
+/treemap_chart 1 75455 0 0
+/assets/vendor/phosphor/Phosphor-Bold.woff2 8 864288 0 1
+/floating_labels 1 85321 0 0
+/profile/avatar 2 228 0 0
+/cPanel_magic_revision_1738602305/frontend/jupiter/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 78260 0 0
+/cpsess8411631315 2 2000 0 0
+/assets/fonts/fontawesome/fa-regular-400.woff2 3 74520 0 1
+/positions/create 5 191862 0 0
+/to_do 1 101575 1 0
+/typeahead 1 78730 1 0
+/prismjs 1 78160 1 0
+/list_table 1 110375 1 0
+/list 3 924684 2 0
+/landing 1 142570 1 0
+/notifications 1 103381 1 0
+/two_step_verification 1 7283 0 1
+/cPanel_magic_revision_1714421975/frontend/jupiter/styles/jupiter-styles/dist/scss/fonts/remixicon.woff2 1 125268 0 0
+/form_wizards 1 111772 1 0
+/lock_screen 2 12048 0 1
+/radial_bar_chart 1 79613 1 0
+/blog 1 102150 0 0
+/privacy_policy 2 159092 2 0
+/wrapper 1 81636 1 0
+/range_slider 1 85344 1 0
+/lock_screen_1 1 6302 1 0
+/public/blog_details 1 110979 0 0
+/assets/fonts/fontawesome/fa-brands-400.woff2 3 324000 0 2
+/sweetalert 1 84411 1 0
+/cpsess8411631315/frontend/jupiter/ 2 238687 0 0
+/pie_charts 2 152892 0 0
+/public/product_list 1 96710 0 1
+/events/5 1 45657 0 0
+/cheatsheet 2 1381798 0 0
+/tour 1 103137 1 0
+/users/1/positions/assign 4 153013 0 1
+/events/2/edit 1 45349 0 0
+/cPanel_magic_revision_1754444430/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Light-webfont.woff 1 22248 0 0
+/scrollpy 1 97622 1 0
+/cPanel_magic_revision_1648610195/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/mixed_chart 1 75329 1 0
+/assets/vendor/phosphor/Phosphor-Light.woff2 1 111664 0 0
+/public/assets/fonts/tabler/tabler-icons.woff2 1 637636 0 0
+/cPanel_magic_revision_1648610195/frontend/jupiter/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/avatar 1 115509 1 0
+/sign_in_1 3 18762 0 0
+/users/1/positions 4 140008 0 0
+/ticket_details 6 500952 1 1
+/cPanel_magic_revision_1731953507/frontend/jupiter/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/incidencias/ver 3 129679 0 0
+/two_step_verification_1 2 14692 0 1
+/tabs 1 135482 1 0
+/project_dashboard 4 468176 2 1
+/read_email 2 176242 1 0
+/terms_condition 3 236304 1 2
+/form_wizard_1 1 120439 1 0
+/add_product 1 91878 0 0
+/positions/1/edit 12 461562 0 0
+/order_list 2 191986 2 0
+/project_app 2 305912 2 0
+/buttons 1 156270 0 0
+/cpsess8411631315/execute/Themes/list 2 214 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 303
+100-500 1264
+44-100 14
+2K-5K 1373
+500-1K 748
+5K+ 9238
+1K-2K 786
+END_FILESIZE

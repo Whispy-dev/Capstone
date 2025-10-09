@@ -1,0 +1,5 @@
+{"type":"info","name":"no-virus","data":{"description":"No virus detected in upload “backup-cimun.cl-9-29-2025.tar.gz”.","file":"backup-cimun.cl-9-29-2025.tar.gz"}}
+{"data":{"file":"backup-cimun.cl-9-29-2025.tar.gz","description":"The system is extracting the “/home/cimun/tmp/Cpanel_Form_file.upload.8be7593c” archive file.","archive":"/home/cimun/tmp/Cpanel_Form_file.upload.8be7593c"},"name":"untar","type":"info"}
+{"data":{"file":"backup-cimun.cl-9-29-2025.tar.gz","description":"The system successfully restored the “/home/cimun” directory from the backup file “backup-cimun.cl-9-29-2025.tar.gz”."},"name":"restore_done","type":"done"}
+{"type":"info","data":{"file":"backup-cimun.cl-9-29-2025.tar.gz"},"name":"processed"}
+{"type":"close"}

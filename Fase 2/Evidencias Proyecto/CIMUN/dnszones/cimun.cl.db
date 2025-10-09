@@ -1,0 +1,40 @@
+; cPanel first:130.0.14 (update_time):1759156588 Cpanel::ZoneFile::VERSION:1.3 hostname:powercp1.zglobalhost.com latest:130.0.14
+; Zone file for cimun.cl
+$TTL 14400
+cimun.cl.	86400	IN	SOA	ns1.brohost.cl.	darkjonter.gmail.com.	(
+						2025092905 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+cimun.cl.	86400	IN	NS	ns1.brohost.cl.
+cimun.cl.	86400	IN	NS	ns2.brohost.cl.
+cimun.cl.	86400	IN	NS	ns3.brohost.cl.
+cimun.cl.	86400	IN	NS	ns4.brohost.cl.
+cimun.cl.	14400	IN	A	138.255.101.220
+cimun.cl.	14400	IN	MX	0	cimun.cl.
+mail	14400	IN	CNAME	cimun.cl.
+www	14400	IN	CNAME	cimun.cl.
+ftp	14400	IN	A	138.255.101.220
+cimun.cl.	14400	IN	TXT	"v=spf1 +a +mx +ip4:138.255.101.220 include:_spf.zglobalhost.com ~all"
+cpcalendars	14400	IN	A	138.255.101.220
+_carddavs._tcp	14400	IN	SRV	0	0	2080	cimun.cl.
+_carddavs._tcp	14400	IN	TXT	"path=/"
+cpanel	14400	IN	A	138.255.101.220
+whm	14400	IN	A	138.255.101.220
+autodiscover	14400	IN	A	138.255.101.220
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+webdisk	14400	IN	A	138.255.101.220
+_caldav._tcp	14400	IN	SRV	0	0	2079	cimun.cl.
+_caldav._tcp	14400	IN	TXT	"path=/"
+_caldavs._tcp	14400	IN	SRV	0	0	2080	cimun.cl.
+_caldavs._tcp	14400	IN	TXT	"path=/"
+webmail	14400	IN	A	138.255.101.220
+autoconfig	14400	IN	A	138.255.101.220
+_carddav._tcp	14400	IN	SRV	0	0	2079	cimun.cl.
+_carddav._tcp	14400	IN	TXT	"path=/"
+cpcontacts	14400	IN	A	138.255.101.220
+_dmarc	14400	IN	TXT	"v=DMARC1\; p=none\;"
+default._domainkey	14400	IN	TXT	"v=DKIM1\; k=rsa\; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs0RdEdrBhcKOgrNeuysz5mFX6/tJmHX8YW+YSyup/2UKBizmG1BNYsaqLuGWN+ZwIFAtiJAvE6PKm33k0Tv4ZX/uR1J5ilqap5bW1IFmtZGhKaCmXWIe83lC2Brtat8mIXSmU7ALA3JDEiI7/qHbIC2uCHTlO9jmFAqAkWteq8ex0tLhA0PCigfkSpbqH4VwJ" "NpeK9FH+2YID3JqftTovq4hpwLLGrNIpEC+90gCmyfSKLuaS71bTQjDfXkdsw30UmnuynYw5bHr+Dm6jpJssUE1LCI0Q4PxX8Ikb4Yz0waaXciTyAhfAIFBOx6Qj3B97XpwLv3fCOWM1GtYk+uhyQIDAQAB\;"
+_cpanel-dcv-test-record	14400	IN	TXT	"_cpanel-dcv-test-record=crUJ1wTT9Twx5d1_iq25PnsDIdy3PUo5jQ_JcKocwNcZG70gNVCc__4zqNJfOrwT"
+_acme-challenge	14400	IN	TXT	"pY7B3c9wWlM3SAT_-iP-iLV3rIB6UJS6zvEyQoQQWS8"

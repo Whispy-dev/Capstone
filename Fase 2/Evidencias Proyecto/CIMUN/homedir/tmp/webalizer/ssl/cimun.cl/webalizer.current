@@ -1,0 +1,2352 @@
+# Webalizer V2.23-08 Incremental Data - 09/27/2025 01:36:43
+2025 9 27 1 36 43
+3816 2416 237 594 52 116 164806313 1376 262 0
+1 1 530 1 27
+996 396 34660379 17 302 18
+126 77 11492203 10 75 12
+329 204 13128891 18 148 24
+143 112 8057221 11 80 7
+194 132 7586332 15 93 14
+10 6 105220 5 4 3
+92 83 6413831 11 62 10
+87 63 4954438 6 40 5
+310 221 15204681 14 132 16
+367 199 18264165 19 199 21
+86 69 6361343 15 42 12
+552 535 16140282 18 16 9
+25 14 297248 12 11 7
+52 27 574781 16 20 12
+84 36 1296540 26 38 24
+54 44 3549392 12 16 8
+39 29 2052741 19 13 9
+45 41 5176021 12 13 11
+16 8 153122 12 12 9
+11 6 79322 7 5 3
+94 66 4981616 14 31 11
+63 19 2155384 14 6 6
+5 3 37920 4 2 1
+30 25 2076080 14 12 7
+5 1 6930 2 3 2
+0 0 0 0 0 0
+1 0 230 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+67 55 3615268 55
+32 18 658264 19
+25 16 375181 13
+13 10 195436 9
+18 12 166742 8
+37 30 3695702 10
+35 10 327600 13
+45 16 543665 20
+46 25 716283 28
+44 24 604855 24
+338 194 15016325 135
+159 117 10806111 80
+196 151 16656394 109
+45 26 2785781 31
+205 75 8021524 61
+158 104 7628834 79
+244 143 10022498 76
+584 240 22837913 186
+43 30 3104503 16
+80 56 1657473 56
+589 553 16994567 37
+534 301 22400893 182
+211 153 12628041 73
+68 57 3346460 56
+0
+0
+0
+2416
+1
+0
+0
+0
+0
+0
+0
+153
+45
+0
+300
+0
+0
+4
+14
+0
+0
+810
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+72
+0
+0
+0
+0
+0
+# -urls- 
+/assets/fonts/flag-icons-master/1x1/fra.svg
+0 1 93871201580880 302 0 0
+/assets/fonts/flag-icons-master/1x1/pse.svg
+0 1 93871201573872 559 0 0
+/assets/fonts/flag-icons-master/1x1/fro.svg
+0 1 0 549 0 0
+/assets/fonts/flag-icons-master/1x1/zwe.svg
+0 1 0 6791 0 0
+/assets/fonts/flag-icons-master/4x3/khm.svg
+0 1 0 7356 0 0
+/incidencias/38/status
+0 2 0 120 0 0
+/assets/fonts/flag-icons-master/1x1/tha.svg
+0 1 0 295 0 0
+/assets/fonts/flag-icons-master/1x1/vut.svg
+0 1 0 3758 0 0
+/assets/fonts/flag-icons-master/4x3/aus.svg
+0 1 0 1344 0 0
+/assets/vendor/slick/slick.min.js
+0 14 0 733603 0 0
+/assets/fonts/flag-icons-master/4x3/bel.svg
+0 1 0 300 0 0
+/assets/fonts/flag-icons-master/4x3/tuv.svg
+0 1 0 2326 0 0
+/assets/customizer.txt
+0 13 0 46584 0 0
+/assets/fonts/flag-icons-master/1x1/khm.svg
+0 1 0 7357 0 0
+/assets/fonts/flag-icons-master/1x1/hrv.svg
+0 1 0 41864 0 0
+/assets/fonts/flag-icons-master/4x3/usa.svg
+0 1 0 4478 0 0
+/assets/fonts/flag-icons-master/4x3/gbr.svg
+0 1 0 849 0 0
+/marcar
+0 2 0 89606 0 0
+/assets/fonts/flag-icons-master/4x3/sen.svg
+0 1 0 435 0 0
+/assets/fonts/flag-icons-master/1x1/tcd.svg
+0 1 0 289 0 0
+/assets/fonts/flag-icons-master/1x1/usa.svg
+0 1 0 3934 0 0
+/assets/fonts/flag-icons-master/1x1/bgd.svg
+0 1 0 199 0 0
+/assets/fonts/flag-icons-master/4x3/swe.svg
+0 1 0 704 0 0
+/assets/fonts/flag-icons-master/1x1/guy.svg
+0 1 0 493 0 0
+/assets/vendor/filepond/filepond.css
+0 6 0 166782 0 0
+/assets/fonts/flag-icons-master/4x3/gib.svg
+0 1 0 3004 0 0
+/assets/fonts/flag-icons-master/1x1/blz.svg
+0 1 0 47305 0 0
+/assets/fonts/flag-icons-master/1x1/aze.svg
+0 1 0 509 0 0
+/assets/fonts/flag-icons-master/1x1/npl.svg
+0 1 0 1218 0 0
+/assets/fonts/flag-icons-master/1x1/bih.svg
+0 1 0 1259 0 0
+/assets/fonts/flag-icons-master/4x3/lka.svg
+0 1 0 11355 0 0
+/assets/fonts/flag-icons-master/4x3/arm.svg
+0 1 0 231 0 0
+/assets/fonts/flag-icons-master/1x1/atg.svg
+0 1 0 778 0 0
+/assets/vendor/glightbox/glightbox.min.css
+0 2 0 27498 0 0
+/assets/fonts/flag-icons-master/4x3/ncl.svg
+0 1 0 6069 0 0
+/assets/fonts/flag-icons-master/4x3/zaf.svg
+0 1 0 873 0 0
+/assets/fonts/flag-icons-master/4x3/bes.svg
+0 1 0 232 0 0
+/assets/fonts/flag-icons-master/4x3/hun.svg
+0 1 0 284 0 0
+/assets/fonts/flag-icons-master/1x1/tca.svg
+0 1 0 14917 0 0
+/assets/fonts/flag-icons-master/1x1/ner.svg
+0 1 0 291 0 0
+/assets/fonts/flag-icons-master/4x3/spm.svg
+0 1 0 152910 0 0
+/assets/fonts/flag-icons-master/4x3/grd.svg
+0 1 0 1721 0 0
+/assets/fonts/flag-icons-master/1x1/cym.svg
+0 1 0 22565 0 0
+/assets/fonts/flag-icons-master/1x1/cze.svg
+0 1 0 495 0 0
+/assets/fonts/flag-icons-master/1x1/lbn.svg
+0 1 0 2769 0 0
+/assets/fonts/flag-icons-master/1x1/ind.svg
+0 1 0 1116 0 0
+/assets/fonts/flag-icons-master/1x1/mdg.svg
+0 1 0 312 0 0
+/assets/vendor/datatable/datatable2/buttons.dataTables.min.css
+0 12 0 159372 0 0
+/assets/fonts/flag-icons-master/1x1/gtm.svg
+0 1 0 38061 0 0
+/assets/fonts/flag-icons-master/4x3/sur.svg
+0 1 0 324 0 0
+/assets/fonts/flag-icons-master/4x3/atf.svg
+0 1 0 1106 0 0
+/assets/fonts/flag-icons-master/1x1/and.svg
+0 1 0 32893 0 0
+/assets/fonts/flag-icons-master/1x1/caf.svg
+0 1 0 650 0 0
+/assets/images/login/04.png
+0 2 0 390012 0 0
+/assets/fonts/flag-icons-master/1x1/cck.svg
+0 1 0 3111 0 0
+/assets/fonts/flag-icons-master/1x1/lka.svg
+0 1 0 11367 0 0
+/assets/fonts/flag-icons-master/1x1/swe.svg
+0 1 0 717 0 0
+/assets/fonts/flag-icons-master/4x3/yem.svg
+0 1 0 285 0 0
+/assets/images/logo/LOGOCIMUN.png
+0 29 0 194787 0 0
+/assets/fonts/flag-icons-master/4x3/civ.svg
+0 1 0 290 0 0
+/assets/vendor/fontawesome/css/all.css
+0 2 0 296620 0 0
+/assets/vendor/filepond/file-encode.min.js
+0 2 0 4718 0 0
+/register
+0 9 0 97569 3 2
+/assets/fonts/flag-icons-master/1x1/vct.svg
+0 1 0 509 0 0
+/assets/fonts/flag-icons-master/4x3/lca.svg
+0 1 0 381 0 0
+/assets/fonts/flag-icons-master/1x1/chn.svg
+0 1 0 757 0 0
+/assets/fonts/flag-icons-master/1x1/brn.svg
+0 1 0 14557 0 0
+/assets/fonts/flag-icons-master/1x1/cyp.svg
+0 1 0 6059 0 0
+/assets/fonts/flag-icons-master/4x3/pak.svg
+0 1 0 758 0 0
+/incidencias/8/status
+0 1 0 60 0 0
+/assets/fonts/flag-icons-master/1x1/uga.svg
+0 1 0 4068 0 0
+/assets/fonts/flag-icons-master/4x3/sco.svg
+0 1 0 238 0 0
+/assets/fonts/flag-icons-master/4x3/asm.svg
+0 1 0 8131 0 0
+/assets/fonts/flag-icons-master/1x1/pry.svg
+0 1 0 17634 0 0
+/assets/fonts/flag-icons-master/4x3/msr.svg
+0 1 0 6831 0 0
+/assets/fonts/flag-icons-master/1x1/sgp.svg
+0 1 0 967 0 0
+/assets/vendor/tabler-icons/tabler-icons.css
+0 29 0 5288179 0 0
+/assets/fonts/flag-icons-master/4x3/irq.svg
+0 1 0 1489 0 0
+/assets/fonts/flag-icons-master/4x3/omn.svg
+0 1 0 23006 0 0
+/assets/fonts/flag-icons-master/4x3/pyf.svg
+0 1 0 4311 0 0
+/assets/fonts/flag-icons-master/1x1/sur.svg
+0 1 0 329 0 0
+/assets/fonts/flag-icons-master/4x3/tun.svg
+0 1 0 766 0 0
+/assets/fonts/flag-icons-master/4x3/fra.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/4x3/zwe.svg
+0 1 0 6812 0 0
+/assets/fonts/flag-icons-master/1x1/tkm.svg
+0 1 0 32087 0 0
+/assets/fonts/flag-icons-master/1x1/tkl.svg
+0 1 0 786 0 0
+/assets/fonts/flag-icons-master/4x3/blm.svg
+0 1 0 150944 0 0
+/assets/fonts/flag-icons-master/4x3/eng.svg
+0 1 0 250 0 0
+/assets/vendor/prism/prism.min.css
+0 29 0 65975 0 0
+/assets/fonts/flag-icons-master/4x3/vgb.svg
+0 1 0 24945 0 0
+/assets/fonts/tabler/tabler-icons.ttf
+0 1 0 1652880 0 0
+/assets/fonts/flag-icons-master/4x3/syc.svg
+0 1 0 582 0 0
+/assets/fonts/flag-icons-master/4x3/uga.svg
+0 1 0 3989 0 0
+/assets/fonts/flag-icons-master/1x1/dom.svg
+0 1 0 398459 0 0
+/assets/fonts/flag-icons-master/4x3/dma.svg
+0 1 0 16178 0 0
+/assets/fonts/flag-icons-master/4x3/mtq.svg
+0 1 0 143333 0 0
+/assets/fonts/flag-icons-master/4x3/mng.svg
+0 1 0 1269 0 0
+/assets/fonts/flag-icons-master/1x1/nic.svg
+0 1 0 18793 0 0
+/assets/fonts/flag-icons-master/4x3/nir.svg
+0 1 0 23869 0 0
+/funcionarios
+0 6 0 224097 1 0
+/incidencias/7
+0 2 0 1220 0 0
+/assets/fonts/flag-icons-master/1x1/esp.svg
+0 1 0 94816 0 0
+/assets/fonts/flag-icons-master/1x1/cat.svg
+0 1 0 264 0 0
+/assets/vendor/phosphor/phosphor-bold.css
+0 18 0 1259445 0 0
+/assets/fonts/flag-icons-master/1x1/umi.svg
+0 1 0 3990 0 0
+/assets/fonts/flag-icons-master/4x3/nzl.svg
+0 1 0 3060 0 0
+/assets/fonts/flag-icons-master/4x3/cze.svg
+0 1 0 493 0 0
+/assets/fonts/flag-icons-master/4x3/vir.svg
+0 1 0 8803 0 0
+/assets/fonts/flag-icons-master/4x3/ltu.svg
+0 1 0 452 0 0
+/assets/fonts/flag-icons-master/4x3/jpn.svg
+0 1 0 495 0 0
+/assets/fonts/flag-icons-master/4x3/pse.svg
+0 1 0 573 0 0
+/assets/fonts/flag-icons-master/1x1/egy.svg
+0 1 0 10030 0 0
+/assets/fonts/flag-icons-master/4x3/bih.svg
+0 1 0 1318 0 0
+/assets/fonts/flag-icons-master/1x1/qat.svg
+0 1 0 363 0 0
+/calendario
+0 20 0 2231560 2 0
+/assets/vendor/phosphor/Phosphor-Bold.ttf
+0 1 0 344736 0 0
+/assets/fonts/flag-icons-master/4x3/est.svg
+0 1 0 331 0 0
+/assets/fonts/flag-icons-master/4x3/gum.svg
+0 1 0 4898 0 0
+/forgot-password
+0 10 0 103260 8 0
+/assets/fonts/flag-icons-master/4x3/cyp.svg
+0 1 0 5955 0 0
+/assets/fonts/flag-icons-master/4x3/kwt.svg
+0 1 0 519 0 0
+/assets/fonts/flag-icons-master/4x3/grc.svg
+0 1 0 840 0 0
+/assets/fonts/flag-icons-master/4x3/vut.svg
+0 1 0 3789 0 0
+/assets/fonts/flag-icons-master/4x3/phl.svg
+0 1 0 2928 0 0
+/assets/fonts/flag-icons-master/1x1/gbr.svg
+0 1 0 807 0 0
+/assets/fonts/flag-icons-master/4x3/mmr.svg
+0 1 0 867 0 0
+/assets/fonts/flag-icons-master/1x1/mdv.svg
+0 1 0 316 0 0
+/assets/fonts/flag-icons-master/1x1/vir.svg
+0 1 0 8758 0 0
+/assets/fonts/flag-icons-master/4x3/pol.svg
+0 1 0 231 0 0
+/assets/fonts/flag-icons-master/4x3/aze.svg
+0 1 0 523 0 0
+/assets/fonts/flag-icons-master/1x1/abw.svg
+0 1 0 12274 0 0
+/assets/images/login/02.png
+0 1 0 184841 0 0
+/assets/fonts/flag-icons-master/4x3/fin.svg
+0 1 0 245 0 0
+/assets/fonts/flag-icons-master/1x1/eth.svg
+0 1 0 1256 0 0
+/assets/fonts/flag-icons-master/4x3/col.svg
+0 1 0 299 0 0
+/assets/images/login/LOGOCIMUN1.png
+0 1 0 15128 0 0
+/assets/vendor/flag-icons-master/flag-icon.css
+0 26 0 1372514 0 0
+/assets/fonts/flag-icons-master/4x3/bhs.svg
+0 1 0 562 0 0
+/assets/fonts/flag-icons-master/4x3/isr.svg
+0 1 0 912 0 0
+/assets/fonts/flag-icons-master/4x3/kir.svg
+0 1 0 5854 0 0
+/assets/fonts/flag-icons-master/1x1/nld.svg
+0 1 0 382 0 0
+/assets/fonts/flag-icons-master/1x1/mar.svg
+0 1 0 257 0 0
+/assets/fonts/flag-icons-master/4x3/chl.svg
+0 1 0 573 0 0
+/assets/vendor/filepond/image-preview.min.css
+0 6 0 19884 0 0
+/assets/fonts/flag-icons-master/1x1/deu.svg
+0 1 0 229 0 0
+/assets/fonts/flag-icons-master/1x1/col.svg
+0 1 0 299 0 0
+/assets/fonts/flag-icons-master/1x1/esh.svg
+0 1 0 843 0 0
+/assets/fonts/flag-icons-master/4x3/gtm.svg
+0 1 0 38061 0 0
+/assets/fonts/flag-icons-master/4x3/chn.svg
+0 1 0 815 0 0
+/assets/fonts/flag-icons-master/1x1/pyf.svg
+0 1 0 4253 0 0
+/assets/fonts/flag-icons-master/1x1/nga.svg
+0 1 0 269 0 0
+/assets/fonts/flag-icons-master/4x3/pcn.svg
+0 1 0 11015 0 0
+/assets/fonts/flag-icons-master/4x3/jam.svg
+0 1 0 400 0 0
+/assets/fonts/flag-icons-master/4x3/tkl.svg
+0 1 0 796 0 0
+/assets/fonts/flag-icons-master/4x3/bwa.svg
+0 1 0 262 0 0
+/assets/fonts/flag-icons-master/4x3/bgd.svg
+0 1 0 197 0 0
+/assets/vendor/bootstrap/bootstrap.min.css
+0 27 0 5961384 0 0
+/assets/fonts/flag-icons-master/4x3/rwa.svg
+0 1 0 763 0 0
+/assets/fonts/flag-icons-master/4x3/sxm.svg
+0 1 0 13362 0 0
+/assets/fonts/flag-icons-master/1x1/can.svg
+0 1 0 716 0 0
+/assets/fonts/flag-icons-master/1x1/yem.svg
+0 1 0 285 0 0
+/assets/fonts/flag-icons-master/1x1/ggy.svg
+0 1 0 637 0 0
+/assets/fonts/flag-icons-master/1x1/iot.svg
+0 1 0 27639 0 0
+/cgi-sys/suspendedpage.cgi
+0 1 0 6252 0 0
+/assets/fonts/flag-icons-master/1x1/rou.svg
+0 1 0 315 0 0
+/assets/fonts/flag-icons-master/1x1/bdi.svg
+0 1 0 1063 0 0
+/assets/fonts/flag-icons-master/1x1/fin.svg
+0 1 0 248 0 0
+/assets/fonts/flag-icons-master/1x1/tur.svg
+0 1 0 586 0 0
+/assets/fonts/flag-icons-master/4x3/cog.svg
+0 1 0 496 0 0
+/assets/fonts/flag-icons-master/4x3/mar.svg
+0 1 0 257 0 0
+/assets/fonts/flag-icons-master/1x1/niu.svg
+0 1 0 1762 0 0
+/assets/fonts/flag-icons-master/4x3/isl.svg
+0 1 0 533 0 0
+/assets/vendor/phosphor/Phosphor-Bold.woff
+0 1 0 344812 0 0
+/incidencias/40
+0 3 0 143219 0 0
+/assets/fonts/flag-icons-master/1x1/lca.svg
+0 1 0 381 0 0
+/assets/fonts/flag-icons-master/1x1/rwa.svg
+0 1 0 764 0 0
+/assets/fonts/flag-icons-master/4x3/ata.svg
+0 1 0 2980 0 0
+/assets/fonts/flag-icons-master/4x3/irn.svg
+0 1 0 15703 0 0
+/assets/fonts/flag-icons-master/4x3/brn.svg
+0 1 0 14423 0 0
+/assets/fonts/flag-icons-master/1x1/mtq.svg
+0 1 0 141035 0 0
+/assets/fonts/flag-icons-master/4x3/vnm.svg
+0 1 0 503 0 0
+/assets/fonts/flag-icons-master/4x3/flk.svg
+0 1 0 30542 0 0
+/assets/fonts/flag-icons-master/1x1/mkd.svg
+0 1 0 418 0 0
+/assets/fonts/flag-icons-master/1x1/nam.svg
+0 1 0 999 0 0
+/assets/fonts/flag-icons-master/4x3/atg.svg
+0 1 0 762 0 0
+/assets/fonts/flag-icons-master/4x3/tgo.svg
+0 1 0 739 0 0
+/assets/js/jquery-3.6.3.min.js
+0 16 0 1349235 0 0
+/assets/fonts/flag-icons-master/4x3/fji.svg
+0 1 0 27508 0 0
+/positions/1
+0 3 0 113163 0 0
+/assets/fonts/flag-icons-master/4x3/esp.svg
+0 1 0 93118 0 0
+/assets/fonts/flag-icons-master/4x3/eri.svg
+0 1 0 3215 0 0
+/assets/js/script.js
+0 18 0 167072 0 0
+/assets/fonts/flag-icons-master/1x1/tgo.svg
+0 1 0 750 0 0
+/assets/fonts/flag-icons-master/4x3/mrt.svg
+0 1 0 456 0 0
+/assets/fonts/flag-icons-master/4x3/ecu.svg
+0 1 0 29555 0 0
+/assets/fonts/flag-icons-master/1x1/sau.svg
+0 1 0 10259 0 0
+/assets/fonts/flag-icons-master/1x1/gin.svg
+0 1 0 305 0 0
+/assets/fonts/flag-icons-master/1x1/che.svg
+0 1 0 307 0 0
+/assets/fonts/flag-icons-master/4x3/fsm.svg
+0 1 0 784 0 0
+/assets/fonts/flag-icons-master/1x1/fji.svg
+0 1 0 27642 0 0
+/assets/fonts/flag-icons-master/4x3/irl.svg
+0 1 0 302 0 0
+/assets/images/logo/favicon.png
+0 43 0 127435 0 0
+/assets/fonts/flag-icons-master/1x1/pan.svg
+0 1 0 675 0 0
+/assets/fonts/flag-icons-master/4x3/ukr.svg
+0 1 0 247 0 0
+/assets/fonts/flag-icons-master/1x1/ita.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/1x1/ton.svg
+0 1 0 374 0 0
+/assets/fonts/flag-icons-master/4x3/cub.svg
+0 1 0 632 0 0
+/assets/vendor/shepherdjs/shepherd.js
+0 2 0 305286 0 0
+/assets/fonts/flag-icons-master/4x3/tjk.svg
+0 1 0 1853 0 0
+/assets/fonts/flag-icons-master/1x1/mnp.svg
+0 1 0 23749 0 0
+/positions/1/edit
+0 1 0 39527 0 0
+/assets/images/icons/ticket.png
+0 12 0 111192 0 0
+/assets/fonts/flag-icons-master/4x3/bra.svg
+0 1 0 8289 0 0
+/assets/fonts/flag-icons-master/1x1/rus.svg
+0 1 0 300 0 0
+/assets/fonts/flag-icons-master/4x3/reu.svg
+0 1 0 302 0 0
+/assets/vendor/datatable/jquery.dataTables.min.css
+0 12 0 267156 0 0
+/assets/fonts/flag-icons-master/4x3/cod.svg
+0 1 0 357 0 0
+/assets/fonts/flag-icons-master/4x3/maf.svg
+0 1 0 1930 0 0
+/assets/fonts/flag-icons-master/1x1/phl.svg
+0 1 0 2898 0 0
+/assets/fonts/flag-icons-master/4x3/gmb.svg
+0 1 0 557 0 0
+/assets/fonts/flag-icons-master/1x1/slb.svg
+0 1 0 969 0 0
+/assets/vendor/datatable/jquery.dataTables.min.js
+0 20 0 1731360 0 0
+/assets/fonts/flag-icons-master/1x1/sdn.svg
+0 1 0 509 0 0
+/favicon.ico
+0 31 0 0 0 0
+/assets/vendor/slick/slick.css
+0 13 0 24635 0 0
+/assets/fonts/flag-icons-master/1x1/brb.svg
+0 1 0 622 0 0
+/assets/fonts/flag-icons-master/4x3/guf.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/4x3/dom.svg
+0 1 0 400891 0 0
+/assets/fonts/flag-icons-master/4x3/nfk.svg
+0 1 0 5854 0 0
+/assets/fonts/flag-icons-master/4x3/bhr.svg
+0 1 0 557 0 0
+/assets/fonts/flag-icons-master/1x1/shn.svg
+0 1 0 30389 0 0
+/assets/fonts/flag-icons-master/4x3/mwi.svg
+0 1 0 3731 0 0
+/assets/fonts/flag-icons-master/1x1/lbr.svg
+0 1 0 711 0 0
+/assets/fonts/flag-icons-master/4x3/lso.svg
+0 1 0 1230 0 0
+/assets/fonts/flag-icons-master/4x3/sun.svg
+0 1 0 2341 0 0
+/assets/fonts/flag-icons-master/1x1/asm.svg
+0 1 0 7878 0 0
+/assets/fonts/flag-icons-master/4x3/umi.svg
+0 1 0 4539 0 0
+/assets/fonts/flag-icons-master/1x1/stp.svg
+0 1 0 939 0 0
+/assets/fonts/flag-icons-master/1x1/guf.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/1x1/lby.svg
+0 1 0 546 0 0
+/assets/fonts/flag-icons-master/1x1/mus.svg
+0 1 0 330 0 0
+/assets/fonts/flag-icons-master/4x3/smr.svg
+0 1 0 16051 0 0
+/incidencias/9
+0 2 0 46875 0 0
+/assets/fonts/flag-icons-master/4x3/mne.svg
+0 1 0 63293 0 0
+/assets/fonts/flag-icons-master/1x1/fsm.svg
+0 1 0 774 0 0
+/assets/fonts/flag-icons-master/4x3/mda.svg
+0 1 0 11353 0 0
+/assets/fonts/flag-icons-master/4x3/kos.svg
+0 1 0 27082 0 0
+/assets/fonts/flag-icons-master/1x1/aia.svg
+0 1 0 48742 0 0
+/assets/fonts/flag-icons-master/4x3/kaz.svg
+0 1 0 11362 0 0
+/assets/fonts/flag-icons-master/1x1/uzb.svg
+0 1 0 1487 0 0
+/assets/fonts/flag-icons-master/4x3/tls.svg
+0 1 0 613 0 0
+/assets/fonts/flag-icons-master/4x3/ind.svg
+0 1 0 1102 0 0
+/assets/fonts/flag-icons-master/1x1/eun.svg
+0 1 0 1281 0 0
+/assets/fonts/flag-icons-master/4x3/arg.svg
+0 1 0 3461 0 0
+/assets/vendor/filepond/validate-type.js
+0 2 0 15358 0 0
+/assets/fonts/flag-icons-master/4x3/tza.svg
+0 1 0 559 0 0
+/assets/fonts/flag-icons-master/4x3/guy.svg
+0 1 0 500 0 0
+/assets/fonts/tabler/tabler-icons.eot
+0 2 0 3306128 0 0
+/assets/fonts/flag-icons-master/4x3/eth.svg
+0 1 0 1257 0 0
+/assets/fonts/flag-icons-master/4x3/wsm.svg
+0 1 0 988 0 0
+/assets/vendor/prism/prism.min.js
+0 17 0 179552 0 0
+/assets/fonts/flag-icons-master/1x1/hti.svg
+0 1 0 15433 0 0
+/assets/fonts/tabler/tabler-icons.woff
+0 1 0 862632 0 0
+/assets/fonts/flag-icons-master/4x3/ala.svg
+0 1 0 574 0 0
+/assets/fonts/flag-icons-master/1x1/nor.svg
+0 1 0 331 0 0
+/assets/fonts/flag-icons-master/4x3/grl.svg
+0 1 0 233 0 0
+/assets/fonts/flag-icons-master/4x3/hti.svg
+0 1 0 15347 0 0
+/assets/fonts/flag-icons-master/1x1/pri.svg
+0 1 0 635 0 0
+/assets/fonts/flag-icons-master/4x3/hrv.svg
+0 1 0 41675 0 0
+/assets/fonts/flag-icons-master/1x1/bfa.svg
+0 1 0 393 0 0
+/assets/fonts/flag-icons-master/1x1/est.svg
+0 1 0 362 0 0
+/assets/fonts/flag-icons-master/4x3/cym.svg
+0 1 0 21949 0 0
+/assets/fonts/flag-icons-master/4x3/tcd.svg
+0 1 0 277 0 0
+/assets/fonts/flag-icons-master/1x1/dji.svg
+0 1 0 601 0 0
+/assets/fonts/flag-icons-master/1x1/svn.svg
+0 1 0 2086 0 0
+/assets/fonts/flag-icons-master/1x1/mex.svg
+0 1 0 91719 0 0
+/build/assets/style-Cuxwy5N_.css
+0 28 0 27916596 0 0
+/assets/fonts/flag-icons-master/1x1/blr.svg
+0 1 0 6127 0 0
+/assets/fonts/flag-icons-master/1x1/lie.svg
+0 1 0 8393 0 0
+/assets/fonts/flag-icons-master/4x3/wal.svg
+0 1 0 9197 0 0
+/assets/fonts/flag-icons-master/4x3/ken.svg
+0 1 0 1406 0 0
+/areas/1
+0 3 0 73143 0 1
+/assets/fonts/flag-icons-master/4x3/plw.svg
+0 1 0 478 0 0
+/assets/js/ticket_details.js
+0 8 0 9480 0 0
+/assets/fonts/flag-icons-master/1x1/kna.svg
+0 1 0 834 0 0
+/assets/fonts/flag-icons-master/1x1/kaz.svg
+0 1 0 11456 0 0
+/assets/vendor/filepond/exif-orientation.min.js
+0 2 0 4256 0 0
+/assets/fonts/flag-icons-master/4x3/glp.svg
+0 1 0 28546 0 0
+/assets/fonts/flag-icons-master/1x1/ltu.svg
+0 1 0 452 0 0
+/dashboard
+0 251 0 16363718 14 4
+/assets/fonts/flag-icons-master/1x1/plw.svg
+0 1 0 522 0 0
+/assets/fonts/flag-icons-master/4x3/sjm.svg
+0 1 0 331 0 0
+/assets/fonts/flag-icons-master/1x1/kos.svg
+0 1 0 26967 0 0
+/assets/fonts/flag-icons-master/1x1/mco.svg
+0 1 0 246 0 0
+/assets/fonts/flag-icons-master/4x3/mlt.svg
+0 1 0 8856 0 0
+/assets/fonts/flag-icons-master/1x1/com.svg
+0 1 0 1060 0 0
+/assets/fonts/flag-icons-master/1x1/srb.svg
+0 1 0 187799 0 0
+/assets/fonts/flag-icons-master/1x1/tto.svg
+0 1 0 330 0 0
+/assets/fonts/flag-icons-master/4x3/wlf.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/4x3/aut.svg
+0 1 0 249 0 0
+/assets/fonts/flag-icons-master/1x1/ury.svg
+0 1 0 1746 0 0
+/assets/svg/_sprite.svg
+0 9 0 143720 0 0
+/assets/fonts/flag-icons-master/1x1/arg.svg
+0 1 0 3534 0 0
+/assets/fonts/flag-icons-master/1x1/tza.svg
+0 1 0 620 0 0
+/assets/fonts/flag-icons-master/4x3/syr.svg
+0 1 0 574 0 0
+/assets/fonts/flag-icons-master/1x1/jor.svg
+0 1 0 710 0 0
+/assets/vendor/phosphor/phosphor.js
+0 17 0 5728 0 0
+/assets/fonts/flag-icons-master/1x1/bwa.svg
+0 1 0 264 0 0
+/assets/fonts/flag-icons-master/4x3/and.svg
+0 1 0 34122 0 0
+/assets/fonts/flag-icons-master/4x3/esh.svg
+0 1 0 893 0 0
+/assets/fonts/flag-icons-master/1x1/lso.svg
+0 1 0 1253 0 0
+/assets/fonts/flag-icons-master/4x3/nam.svg
+0 1 0 1021 0 0
+/assets/fonts/flag-icons-master/4x3/niu.svg
+0 1 0 1774 0 0
+/firebase-messaging-sw.js
+0 280 0 17485 0 0
+/login
+0 37 0 412274 4 3
+/assets/fonts/flag-icons-master/4x3/sdn.svg
+0 1 0 507 0 0
+/assets/fonts/flag-icons-master/4x3/lie.svg
+0 1 0 8370 0 0
+/assets/fonts/flag-icons-master/4x3/iot.svg
+0 1 0 27584 0 0
+/assets/fonts/flag-icons-master/1x1/jam.svg
+0 1 0 400 0 0
+/assets/fonts/flag-icons-master/1x1/swz.svg
+0 1 0 6751 0 0
+/assets/fonts/flag-icons-master/4x3/sle.svg
+0 1 0 285 0 0
+/assets/fonts/flag-icons-master/4x3/bdi.svg
+0 1 0 1089 0 0
+/assets/vendor/trumbowyg/trumbowyg.min.css
+0 6 0 117966 0 0
+/assets/fonts/flag-icons-master/4x3/mkd.svg
+0 1 0 390 0 0
+/profile
+0 2 0 105585 0 0
+/assets/fonts/flag-icons-master/4x3/jor.svg
+0 1 0 733 0 0
+/assets/fonts/flag-icons-master/1x1/wal.svg
+0 1 0 9092 0 0
+/assets/fonts/flag-icons-master/1x1/gha.svg
+0 1 0 305 0 0
+/assets/fonts/flag-icons-master/4x3/lva.svg
+0 1 0 242 0 0
+/assets/fonts/flag-icons-master/4x3/mex.svg
+0 1 0 96246 0 0
+/assets/fonts/flag-icons-master/1x1/bes.svg
+0 1 0 236 0 0
+/assets/fonts/flag-icons-master/4x3/com.svg
+0 1 0 1077 0 0
+/assets/fonts/flag-icons-master/1x1/tun.svg
+0 1 0 756 0 0
+/assets/fonts/flag-icons-master/4x3/nic.svg
+0 1 0 18713 0 0
+/assets/fonts/flag-icons-master/1x1/msr.svg
+0 1 0 6739 0 0
+/assets/fonts/flag-icons-master/1x1/ben.svg
+0 1 0 516 0 0
+/assets/fonts/flag-icons-master/1x1/mda.svg
+0 1 0 11458 0 0
+/assets/fonts/flag-icons-master/1x1/ago.svg
+0 1 0 1621 0 0
+/assets/fonts/flag-icons-master/4x3/rou.svg
+0 1 0 315 0 0
+/assets/fonts/flag-icons-master/4x3/png.svg
+0 1 0 1680 0 0
+/build/assets/login-bg-BzD9KQpW.png
+0 13 0 1762739 0 0
+/assets/fonts/flag-icons-master/1x1/ata.svg
+0 1 0 3196 0 0
+/assets/fonts/flag-icons-master/4x3/fro.svg
+0 1 0 579 0 0
+/assets/fonts/flag-icons-master/1x1/per.svg
+0 1 0 73873 0 0
+/assets/fonts/flag-icons-master/4x3/abw.svg
+0 1 0 10134 0 0
+/api/device-token
+0 224 0 9622 3 22
+/assets/vendor/glightbox/glightbox.min.js
+0 2 0 111760 0 0
+/assets/fonts/flag-icons-master/4x3/ita.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/4x3/geo.svg
+0 1 0 1406 0 0
+/assets/fonts/flag-icons-master/1x1/omn.svg
+0 1 0 22990 0 0
+/assets/fonts/flag-icons-master/1x1/nzl.svg
+0 1 0 3086 0 0
+/assets/fonts/flag-icons-master/1x1/aus.svg
+0 1 0 1329 0 0
+/assets/fonts/flag-icons-master/1x1/sgs.svg
+0 1 0 35357 0 0
+/assets/fonts/flag-icons-master/1x1/moz.svg
+0 1 0 2625 0 0
+/assets/fonts/flag-icons-master/1x1/bel.svg
+0 1 0 300 0 0
+/incidencias/39
+0 3 0 143561 0 0
+/assets/fonts/flag-icons-master/4x3/ago.svg
+0 1 0 1621 0 0
+/assets/fonts/flag-icons-master/4x3/mhl.svg
+0 1 0 751 0 0
+/assets/fonts/flag-icons-master/4x3/uzb.svg
+0 1 0 1487 0 0
+/assets/fonts/flag-icons-master/1x1/sxm.svg
+0 1 0 13171 0 0
+/assets/fonts/flag-icons-master/1x1/hkg.svg
+0 1 0 3591 0 0
+/assets/fonts/flag-icons-master/4x3/sau.svg
+0 1 0 10329 0 0
+/assets/fonts/flag-icons-master/1x1/pak.svg
+0 1 0 709 0 0
+/assets/fonts/flag-icons-master/1x1/nru.svg
+0 1 0 683 0 0
+/assets/fonts/flag-icons-master/1x1/eri.svg
+0 1 0 3408 0 0
+/assets/fonts/flag-icons-master/1x1/smr.svg
+0 1 0 15970 0 0
+/assets/fonts/flag-icons-master/1x1/jpn.svg
+0 1 0 511 0 0
+/assets/fonts/flag-icons-master/4x3/gin.svg
+0 1 0 305 0 0
+/assets/fonts/flag-icons-master/4x3/che.svg
+0 1 0 309 0 0
+/assets/fonts/flag-icons-master/4x3/ggy.svg
+0 1 0 607 0 0
+/assets/fonts/flag-icons-master/4x3/cri.svg
+0 1 0 303 0 0
+/assets/fonts/flag-icons-master/1x1/hnd.svg
+0 1 0 1137 0 0
+/assets/fonts/flag-icons-master/4x3/tkm.svg
+0 1 0 32785 0 0
+/assets/fonts/flag-icons-master/1x1/btn.svg
+0 1 0 25261 0 0
+/assets/fonts/flag-icons-master/4x3/gnb.svg
+0 1 0 829 0 0
+/assets/fonts/flag-icons-master/1x1/ecu.svg
+0 1 0 30110 0 0
+/assets/fonts/flag-icons-master/1x1/bhs.svg
+0 1 0 584 0 0
+/assets/fonts/flag-icons-master/4x3/ven.svg
+0 1 0 1197 0 0
+/assets/fonts/flag-icons-master/4x3/mus.svg
+0 1 0 330 0 0
+/assets/fonts/flag-icons-master/4x3/srb.svg
+0 1 0 187932 0 0
+/assets/fonts/flag-icons-master/4x3/hkg.svg
+0 1 0 3541 0 0
+/assets/fonts/flag-icons-master/1x1/spm.svg
+0 1 0 79284 0 0
+/assets/fonts/flag-icons-master/4x3/pry.svg
+0 1 0 17469 0 0
+/assets/fonts/flag-icons-master/4x3/bvt.svg
+0 1 0 595 0 0
+/assets/fonts/flag-icons-master/4x3/kgz.svg
+0 1 0 3402 0 0
+/assets/fonts/flag-icons-master/1x1/kir.svg
+0 1 0 5991 0 0
+/assets/fonts/flag-icons-master/4x3/swz.svg
+0 1 0 6800 0 0
+/assets/fonts/tabler/tabler-icons.woff2
+0 16 0 10202176 0 0
+/storage/avatars/cRCJFsIjTysoze0bU05yOyNlqRys1Gd9TVhT1MqB.png
+0 7 0 1663012 0 0
+/assets/fonts/flag-icons-master/1x1/irn.svg
+0 1 0 15606 0 0
+/assets/fonts/flag-icons-master/4x3/rus.svg
+0 1 0 296 0 0
+/assets/fonts/flag-icons-master/1x1/jey.svg
+0 1 0 4788 0 0
+/assets/fonts/flag-icons-master/1x1/sun.svg
+0 1 0 2191 0 0
+/assets/fonts/flag-icons-master/1x1/pol.svg
+0 1 0 231 0 0
+/assets/vendor/animation/animate.min.css
+0 26 0 1865656 0 0
+/assets/vendor/simplebar/simplebar.css
+0 26 0 116142 0 0
+/assets/fonts/flag-icons-master/4x3/npl.svg
+0 1 0 1075 0 0
+/assets/fonts/flag-icons-master/4x3/ton.svg
+0 1 0 368 0 0
+/assets/fonts/flag-icons-master/1x1/ncl.svg
+0 1 0 6257 0 0
+/assets/fonts/flag-icons-master/1x1/cok.svg
+0 1 0 1855 0 0
+/assets/fonts/flag-icons-master/1x1/vnm.svg
+0 1 0 512 0 0
+/assets/fonts/flag-icons-master/4x3/are.svg
+0 1 0 263 0 0
+/assets/fonts/flag-icons-master/4x3/nor.svg
+0 1 0 331 0 0
+/assets/fonts/flag-icons-master/1x1/tuv.svg
+0 1 0 2193 0 0
+/assets/fonts/flag-icons-master/4x3/tto.svg
+0 1 0 329 0 0
+/assets/fonts/flag-icons-master/1x1/gab.svg
+0 1 0 288 0 0
+/assets/fonts/flag-icons-master/1x1/dnk.svg
+0 1 0 243 0 0
+/assets/fonts/flag-icons-master/1x1/mrt.svg
+0 1 0 444 0 0
+/assets/fonts/flag-icons-master/4x3/gnq.svg
+0 1 0 5211 0 0
+/assets/fonts/flag-icons-master/4x3/zmb.svg
+0 1 0 5535 0 0
+/assets/js/profile.js
+0 2 0 6186 0 0
+/assets/fonts/flag-icons-master/4x3/lao.svg
+0 1 0 469 0 0
+/assets/fonts/flag-icons-master/1x1/cmr.svg
+0 1 0 842 0 0
+/assets/fonts/flag-icons-master/4x3/lux.svg
+0 1 0 236 0 0
+/ia
+0 48 0 47493 4 4
+/assets/fonts/flag-icons-master/1x1/twn.svg
+0 1 0 974 0 0
+/assets/fonts/flag-icons-master/4x3/can.svg
+0 1 0 735 0 0
+/assets/fonts/flag-icons-master/4x3/blz.svg
+0 1 0 47061 0 0
+/assets/fonts/flag-icons-master/4x3/prk.svg
+0 1 0 807 0 0
+/assets/fonts/flag-icons-master/1x1/alb.svg
+0 1 0 3233 0 0
+/assets/fonts/flag-icons-master/1x1/irl.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/1x1/png.svg
+0 1 0 2127 0 0
+/assets/fonts/flag-icons-master/1x1/idn.svg
+0 1 0 248 0 0
+/assets/fonts/flag-icons-master/1x1/myt.svg
+0 1 0 51923 0 0
+/assets/fonts/flag-icons-master/1x1/geo.svg
+0 1 0 1550 0 0
+/assets/vendor/bootstrap/bootstrap.bundle.min.js
+0 29 0 2258732 0 0
+/assets/fonts/flag-icons-master/1x1/svk.svg
+0 1 0 1196 0 0
+/assets/fonts/flag-icons-master/4x3/tca.svg
+0 1 0 14652 0 0
+/assets/fonts/flag-icons-master/1x1/cog.svg
+0 1 0 484 0 0
+/assets/fonts/flag-icons-master/4x3/shn.svg
+0 1 0 29776 0 0
+/assets/fonts/flag-icons-master/1x1/syr.svg
+0 1 0 588 0 0
+/assets/fonts/flag-icons-master/1x1/afg.svg
+0 1 0 21226 0 0
+/cPanel_magic_revision_1714421346/unprotected/cpanel-legacy/favicon.ico
+0 4 0 2644 0 0
+/assets/fonts/flag-icons-master/1x1/bmu.svg
+0 1 0 22435 0 0
+/assets/fonts/flag-icons-master/4x3/hnd.svg
+0 1 0 1133 0 0
+/assets/fonts/flag-icons-master/4x3/btn.svg
+0 1 0 25434 0 0
+/assets/fonts/flag-icons-master/1x1/reu.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/4x3/caf.svg
+0 1 0 704 0 0
+/assets/fonts/flag-icons-master/1x1/bhr.svg
+0 1 0 583 0 0
+/assets/fonts/flag-icons-master/1x1/sle.svg
+0 1 0 453 0 0
+/assets/fonts/flag-icons-master/1x1/cxr.svg
+0 1 0 2523 0 0
+/assets/fonts/flag-icons-master/1x1/ven.svg
+0 1 0 1217 0 0
+/
+0 216 0 7728407 212 30
+/assets/fonts/flag-icons-master/4x3/mdv.svg
+0 1 0 298 0 0
+/assets/vendor/simplebar/simplebar.js
+0 17 0 1191088 0 0
+/assets/fonts/flag-icons-master/1x1/kgz.svg
+0 1 0 3352 0 0
+/assets/fonts/flag-icons-master/1x1/vgb.svg
+0 1 0 25125 0 0
+/assets/fonts/flag-icons-master/4x3/bol.svg
+0 1 0 118948 0 0
+/assets/fonts/flag-icons-master/1x1/ala.svg
+0 1 0 562 0 0
+/incidencias/8
+0 22 0 169317 0 1
+/assets/fonts/flag-icons-master/1x1/dza.svg
+0 1 0 317 0 0
+/assets/fonts/flag-icons-master/4x3/lbn.svg
+0 1 0 2829 0 0
+/assets/fonts/flag-icons-master/4x3/lby.svg
+0 1 0 547 0 0
+/incidencias
+0 132 0 14282088 2 1
+/assets/fonts/flag-icons-master/4x3/sgs.svg
+0 1 0 34859 0 0
+/assets/fonts/flag-icons-master/4x3/mco.svg
+0 1 0 246 0 0
+/assets/fonts/flag-icons-master/1x1/wsm.svg
+0 1 0 978 0 0
+/assets/fonts/flag-icons-master/1x1/bgr.svg
+0 1 0 304 0 0
+/assets/fonts/flag-icons-master/4x3/qat.svg
+0 1 0 366 0 0
+/positions
+0 29 0 1889638 1 0
+/events/create
+0 5 0 241506 0 0
+/assets/fonts/flag-icons-master/4x3/cpv.svg
+0 1 0 1427 0 0
+/assets/fonts/flag-icons-master/4x3/alb.svg
+0 1 0 3226 0 0
+/assets/fonts/flag-icons-master/4x3/vat.svg
+0 1 0 91720 0 0
+/assets/fonts/flag-icons-master/1x1/mli.svg
+0 1 0 289 0 0
+/assets/fonts/flag-icons-master/1x1/kor.svg
+0 1 0 1757 0 0
+/assets/fonts/flag-icons-master/4x3/mli.svg
+0 1 0 286 0 0
+/assets/vendor/filepond/image-preview.min.js
+0 2 0 48184 0 0
+/assets/fonts/flag-icons-master/1x1/nir.svg
+0 1 0 25393 0 0
+/assets/fonts/flag-icons-master/1x1/grd.svg
+0 1 0 1861 0 0
+/assets/fonts/flag-icons-master/4x3/moz.svg
+0 1 0 2644 0 0
+/assets/fonts/flag-icons-master/4x3/slv.svg
+0 1 0 84643 0 0
+/assets/fonts/flag-icons-master/4x3/jey.svg
+0 1 0 4807 0 0
+/assets/fonts/flag-icons-master/4x3/ner.svg
+0 1 0 285 0 0
+/assets/fonts/flag-icons-master/1x1/gnq.svg
+0 1 0 5303 0 0
+/assets/fonts/flag-icons-master/4x3/ssd.svg
+0 1 0 397 0 0
+/assets/fonts/flag-icons-master/1x1/slv.svg
+0 1 0 85117 0 0
+/assets/fonts/flag-icons-master/4x3/pri.svg
+0 1 0 647 0 0
+/assets/fonts/flag-icons-master/4x3/pan.svg
+0 1 0 760 0 0
+/assets/fonts/flag-icons-master/4x3/gab.svg
+0 1 0 284 0 0
+/assets/fonts/flag-icons-master/1x1/bvt.svg
+0 1 0 598 0 0
+/assets/fonts/flag-icons-master/4x3/nga.svg
+0 1 0 269 0 0
+/assets/fonts/flag-icons-master/4x3/twn.svg
+0 1 0 959 0 0
+/build/assets/box-bg-CogJfHyy.jpg
+0 16 0 5714910 0 0
+/incidencias/38
+0 31 0 1031385 1 1
+/assets/fonts/flag-icons-master/4x3/myt.svg
+0 1 0 51947 0 0
+/assets/fonts/flag-icons-master/1x1/syc.svg
+0 1 0 587 0 0
+/assets/fonts/flag-icons-master/1x1/mac.svg
+0 1 0 1559 0 0
+/assets/fonts/flag-icons-master/4x3/ben.svg
+0 1 0 513 0 0
+/assets/fonts/flag-icons-master/4x3/tha.svg
+0 1 0 294 0 0
+/assets/fonts/flag-icons-master/4x3/gha.svg
+0 1 0 292 0 0
+/assets/fonts/flag-icons-master/1x1/maf.svg
+0 1 0 1984 0 0
+/assets/fonts/flag-icons-master/1x1/chl.svg
+0 1 0 590 0 0
+/assets/vendor/filepond/filepond.min.js
+0 8 0 941256 0 0
+/assets/fonts/flag-icons-master/4x3/blr.svg
+0 1 0 6018 0 0
+/assets/fonts/flag-icons-master/1x1/lva.svg
+0 1 0 246 0 0
+/assets/fonts/flag-icons-master/4x3/cmr.svg
+0 1 0 842 0 0
+/assets/fonts/flag-icons-master/1x1/gmb.svg
+0 1 0 394 0 0
+/positions/create
+0 10 0 443605 0 1
+/assets/fonts/flag-icons-master/1x1/mwi.svg
+0 1 0 3945 0 0
+/assets/fonts/flag-icons-master/4x3/prt.svg
+0 1 0 8450 0 0
+/assets/fonts/flag-icons-master/4x3/afg.svg
+0 1 0 21360 0 0
+/assets/fonts/flag-icons-master/1x1/mys.svg
+0 1 0 1290 0 0
+/assets/fonts/flag-icons-master/1x1/mng.svg
+0 1 0 1276 0 0
+/assets/fonts/flag-icons-master/1x1/zaf.svg
+0 1 0 892 0 0
+/assets/fonts/flag-icons-master/1x1/bra.svg
+0 1 0 7897 0 0
+/assets/fonts/flag-icons-master/1x1/sco.svg
+0 1 0 246 0 0
+/assets/js/customizer.js
+0 18 0 89344 0 0
+/assets/fonts/flag-icons-master/4x3/dza.svg
+0 1 0 306 0 0
+/assets/fonts/flag-icons-master/1x1/gnb.svg
+0 1 0 907 0 0
+/assets/fonts/flag-icons-master/4x3/imn.svg
+0 1 0 9984 0 0
+/assets/fonts/flag-icons-master/1x1/som.svg
+0 1 0 512 0 0
+/assets/fonts/flag-icons-master/1x1/pcn.svg
+0 1 0 8691 0 0
+/assets/fonts/flag-icons-master/1x1/bol.svg
+0 1 0 120528 0 0
+/assets/fonts/flag-icons-master/1x1/tls.svg
+0 1 0 595 0 0
+/storage/avatars/C83PpuvnBRZWCfYOjqE5BFvXx1heb2qm32XCRqLe.jpg
+0 13 0 39942 0 0
+/assets/fonts/flag-icons-master/1x1/blm.svg
+0 1 0 150597 0 0
+/assets/fonts/flag-icons-master/4x3/bgr.svg
+0 1 0 296 0 0
+/assets/fonts/flag-icons-master/4x3/ury.svg
+0 1 0 1749 0 0
+/assets/fonts/flag-icons-master/4x3/cok.svg
+0 1 0 1896 0 0
+/assets/fonts/flag-icons-master/1x1/cod.svg
+0 1 0 522 0 0
+/assets/fonts/flag-icons-master/1x1/sen.svg
+0 1 0 426 0 0
+/assets/fonts/flag-icons-master/1x1/aut.svg
+0 1 0 251 0 0
+/assets/fonts/flag-icons-master/4x3/egy.svg
+0 1 0 10016 0 0
+/assets/fonts/flag-icons-master/4x3/cck.svg
+0 1 0 3163 0 0
+/assets/fonts/flag-icons-master/1x1/cuw.svg
+0 1 0 699 0 0
+/robots.txt
+0 77 0 1848 0 0
+/assets/fonts/flag-icons-master/1x1/ken.svg
+0 1 0 1518 0 0
+/assets/fonts/flag-icons-master/4x3/lbr.svg
+0 1 0 738 0 0
+/assets/fonts/flag-icons-master/4x3/stp.svg
+0 1 0 935 0 0
+/build/assets/sign-in-bg-BHLg4wZk.jpg
+0 12 0 4725020 0 0
+/assets/fonts/flag-icons-master/1x1/mne.svg
+0 1 0 64309 0 0
+/assets/fonts/flag-icons-master/1x1/zmb.svg
+0 1 0 5456 0 0
+/assets/vendor/filepond/validate-size.min.js
+0 2 0 4754 0 0
+/assets/fonts/flag-icons-master/4x3/brb.svg
+0 1 0 619 0 0
+/assets/fonts/flag-icons-master/1x1/sjm.svg
+0 1 0 331 0 0
+/assets/fonts/flag-icons-master/4x3/deu.svg
+0 1 0 221 0 0
+/assets/images/login/01.png
+0 10 0 1546164 0 0
+/assets/fonts/flag-icons-master/1x1/grl.svg
+0 1 0 247 0 0
+/assets/fonts/flag-icons-master/1x1/mmr.svg
+0 1 0 884 0 0
+/assets/fonts/flag-icons-master/4x3/kna.svg
+0 1 0 830 0 0
+/assets/fonts/flag-icons-master/1x1/civ.svg
+0 1 0 293 0 0
+/assets/fonts/flag-icons-master/4x3/slb.svg
+0 1 0 963 0 0
+/assets/fonts/flag-icons-master/1x1/lux.svg
+0 1 0 240 0 0
+/assets/fonts/flag-icons-master/4x3/kor.svg
+0 1 0 1851 0 0
+/assets/fonts/flag-icons-master/1x1/ukr.svg
+0 1 0 247 0 0
+/assets/fonts/flag-icons-master/1x1/wlf.svg
+0 1 0 302 0 0
+/assets/fonts/flag-icons-master/1x1/glp.svg
+0 1 0 28339 0 0
+/assets/fonts/flag-icons-master/1x1/arm.svg
+0 1 0 239 0 0
+/assets/fonts/flag-icons-master/4x3/cxr.svg
+0 1 0 2484 0 0
+/assets/fonts/flag-icons-master/4x3/aia.svg
+0 1 0 42975 0 0
+/assets/fonts/flag-icons-master/4x3/hmd.svg
+0 1 0 1337 0 0
+/assets/vendor/phosphor/Phosphor-Bold.svg
+0 1 0 1191770 0 0
+/assets/fonts/flag-icons-master/1x1/cpv.svg
+0 1 0 1375 0 0
+/assets/fonts/flag-icons-master/1x1/gib.svg
+0 1 0 2996 0 0
+/assets/fonts/flag-icons-master/4x3/dnk.svg
+0 1 0 247 0 0
+/assets/fonts/flag-icons-master/4x3/svk.svg
+0 1 0 1217 0 0
+/assets/fonts/flag-icons-master/4x3/mac.svg
+0 1 0 1525 0 0
+/assets/fonts/flag-icons-master/1x1/atf.svg
+0 1 0 1214 0 0
+/assets/fonts/flag-icons-master/1x1/vat.svg
+0 1 0 91355 0 0
+/assets/fonts/flag-icons-master/1x1/mlt.svg
+0 1 0 10569 0 0
+/assets/fonts/flag-icons-master/1x1/mhl.svg
+0 1 0 775 0 0
+/assets/fonts/flag-icons-master/4x3/nld.svg
+0 1 0 374 0 0
+/assets/fonts/flag-icons-master/1x1/ssd.svg
+0 1 0 408 0 0
+/assets/fonts/flag-icons-master/4x3/tur.svg
+0 1 0 565 0 0
+/assets/fonts/flag-icons-master/1x1/isr.svg
+0 1 0 865 0 0
+/assets/fonts/flag-icons-master/4x3/per.svg
+0 1 0 74587 0 0
+/assets/fonts/flag-icons-master/1x1/prk.svg
+0 1 0 870 0 0
+/assets/vendor/trumbowyg/trumbowyg.min.js
+0 7 0 194943 0 0
+/assets/fonts/flag-icons-master/1x1/imn.svg
+0 1 0 10331 0 0
+/assets/fonts/flag-icons-master/4x3/bmu.svg
+0 1 0 22748 0 0
+/assets/fonts/flag-icons-master/1x1/prt.svg
+0 1 0 8832 0 0
+/assets/fonts/flag-icons-master/1x1/hmd.svg
+0 1 0 1321 0 0
+/assets/fonts/flag-icons-master/1x1/gum.svg
+0 1 0 4683 0 0
+/assets/fonts/flag-icons-master/4x3/dji.svg
+0 1 0 601 0 0
+/assets/fonts/flag-icons-master/4x3/svn.svg
+0 1 0 2073 0 0
+/assets/fonts/flag-icons-master/1x1/grc.svg
+0 1 0 899 0 0
+/assets/vendor/slick/slick-theme.css
+0 12 0 40188 0 0
+/assets/fonts/flag-icons-master/4x3/som.svg
+0 1 0 505 0 0
+/assets/fonts/flag-icons-master/1x1/flk.svg
+0 1 0 30737 0 0
+/assets/fonts/flag-icons-master/4x3/nru.svg
+0 1 0 660 0 0
+/assets/fonts/flag-icons-master/4x3/cat.svg
+0 1 0 265 0 0
+/assets/fonts/flag-icons-master/1x1/cub.svg
+0 1 0 589 0 0
+/assets/fonts/flag-icons-master/4x3/mdg.svg
+0 1 0 312 0 0
+/assets/fonts/flag-icons-master/1x1/cri.svg
+0 1 0 303 0 0
+/assets/fonts/flag-icons-master/1x1/lao.svg
+0 1 0 519 0 0
+/areas
+0 53 0 3383320 2 1
+/assets/fonts/flag-icons-master/4x3/cuw.svg
+0 1 0 692 0 0
+/assets/fonts/flag-icons-master/1x1/dma.svg
+0 1 0 16666 0 0
+/assets/fonts/flag-icons-master/1x1/are.svg
+0 1 0 271 0 0
+/assets/fonts/flag-icons-master/1x1/isl.svg
+0 1 0 541 0 0
+/assets/vendor/phosphor/Phosphor-Bold.woff2
+0 4 0 432144 0 0
+/assets/fonts/flag-icons-master/1x1/tjk.svg
+0 1 0 1814 0 0
+/assets/fonts/flag-icons-master/4x3/bfa.svg
+0 1 0 367 0 0
+# End Of Table - urls
+# -sites- (monthly)
+17-22-245-56.applebot.apple.com
+0 2 2 37428 1 1758201262
+/
+ec2-54-243-4-182.compute-1.amazonaws.com
+0 1 0 240 0 0
+-
+unused-space.coop.net
+0 13 4 115113 3 1758023357
+/
+192.36.207.10
+0 1 1 37404 1 1757755841
+/
+hostedby.privatelayer.com
+0 2 0 458 2 1757486244
+/
+31.99.87.34.bc.googleusercontent.com
+0 3 1 44252 1 1757940622
+-
+scanner-205.hk2.censys-scanner.com
+0 19 8 209501 4 1758454724
+/
+93.158.90.73
+0 1 1 24 0 0
+-
+104.210.140.139
+0 5 4 335 0 0
+-
+149.57.180.38
+0 2 1 37633 1 1757906887
+/
+20.196.105.114
+0 41 0 270723 0 0
+-
+45.139.104.170
+0 1 0 233 0 0
+-
+ec2-54-154-184-182.eu-west-1.compute.amazonaws.com
+0 2 2 37428 1 1757545567
+/
+74.7.35.62
+0 1 0 229 1 1757601919
+/
+45.148.10.248
+0 1 0 229 1 1757968378
+/
+134.209.161.164
+0 2 0 469 1 1758469245
+/
+172.94.119.6
+0 2 1 37633 1 1757031361
+/
+206.189.27.168
+0 2 0 104 1 1758344752
+/
+46-39-94-23.reverse-dns
+0 2 0 6876 0 0
+-
+165.227.70.84
+0 1 1 37404 1 1757442620
+/
+93.158.90.40
+0 1 1 37404 1 1757897189
+/
+104.210.140.142
+0 3 3 72 0 0
+-
+ns1000614.ip-51-81-46.us
+0 1 0 36 1 1757253417
+/
+93.158.90.74
+0 1 1 24 0 0
+-
+104.210.140.132
+0 6 4 574 0 0
+-
+142-111-123-177.ips.acedatacenter.com
+0 2 1 44007 1 1758000500
+/
+5.133.192.128
+0 4 2 41533 1 1758421977
+/
+181.226.20.28
+0 5 5 153257 3 1758164676
+/
+93.158.91.11
+0 4 2 41533 1 1757034955
+/
+ec2-54-175-69-194.compute-1.amazonaws.com
+0 2 1 37633 1 1757142150
+/
+crawl-66-249-66-12.googlebot.com
+0 27 27 4644594 3 1758177264
+/forgot-password
+23.27.145.243
+0 2 1 37633 1 1757852386
+/
+eu15.aseoserver.com
+0 1 1 24 0 0
+-
+93.158.91.24
+0 4 2 41533 1 1757736805
+/
+client-186-11-13-247.imovil.entelpcs.cl
+0 3 2 41274 1 1756903447
+/
+ec2-54-87-239-216.compute-1.amazonaws.com
+0 2 1 37633 1 1756974663
+/
+198.235.24.14
+0 1 0 230 1 1758937003
+/
+186.107.160.183
+0 4 3 78678 1 1758037514
+/
+msnbot-52-167-144-227.search.msn.com
+0 5 5 497173 1 1758563637
+/login
+ec2-3-235-226-159.compute-1.amazonaws.com
+0 9 6 89151 1 1757816771
+/
+109.215.211.35.bc.googleusercontent.com
+0 6 3 61712 1 1757836871
+/register
+4.227.36.42
+0 1 1 24 0 0
+-
+client-181-42-163-50.imovil.entelpcs.cl
+0 435 305 13987526 14 1758735215
+/
+66.132.153.132
+0 4 2 50610 1 1757844578
+/
+msnbot-52-167-144-212.search.msn.com
+0 1 1 10326 1 1757910831
+/forgot-password
+143.110.156.174
+0 2 2 1629 1 1757479886
+/
+198.235.24.52
+0 1 0 229 1 1756857584
+/
+181.160.134.182
+0 31 24 3336283 1 1757072901
+/forgot-password
+210.64.24.100
+0 2 1 37633 1 1758153164
+/
+illustrious.monitoring.internet-measurement.com
+0 1 1 3641 0 0
+-
+198.235.24.181
+0 1 1 37404 1 1758321254
+/
+ec2-54-160-96-246.compute-1.amazonaws.com
+0 2 1 37633 1 1757582659
+/
+ec2-100-25-13-49.compute-1.amazonaws.com
+0 2 1 37633 1 1757664323
+/
+ec2-13-218-112-34.compute-1.amazonaws.com
+0 2 1 37633 1 1757406040
+/
+undefined.hostname.localhost
+0 1 1 37404 1 1758529405
+/
+20.171.207.86
+0 1 0 229 1 1757708253
+/
+143.244.143.141
+0 2 0 106 1 1758179413
+/
+107.150.0.91
+0 2 0 462 1 1756928264
+/
+crawl-66-249-66-14.googlebot.com
+0 3 3 101034 2 1758215892
+/register
+20.171.207.107
+0 1 0 229 1 1758530876
+/
+msnbot-52-167-144-159.search.msn.com
+0 1 1 37404 1 1758569064
+/
+msnbot-52-167-144-216.search.msn.com
+0 2 2 1038415 0 0
+-
+205.169.39.14
+0 1 1 37404 1 1757056753
+/
+104.210.140.140
+0 6 3 789 0 0
+-
+213.209.157.244
+0 1 0 229 1 1758311485
+/
+104.210.140.136
+0 4 3 311 0 0
+-
+prod-nyc3-3.qencode-master-9382b2f68de811f0b3bd7a15cd6cee73
+0 1 1 37404 1 1757407660
+/
+pc-252-48-101-190.cm.vtr.net
+0 4 3 78678 2 1757601547
+/
+104.210.140.129
+0 6 5 359 0 0
+-
+client-186-11-22-76.imovil.entelpcs.cl
+0 2 2 41045 1 1756714744
+/
+144.47.155.104.bc.googleusercontent.com
+0 1 1 37404 1 1757916003
+/
+20.39.202.42
+0 90 0 594270 0 0
+-
+scanner-27.ch1.censys-scanner.com
+0 5 2 57213 1 1756888619
+/
+52.169.25.28
+0 17 0 112251 0 0
+-
+213.209.157.232
+0 1 0 240 0 0
+-
+ec2-3-85-24-119.compute-1.amazonaws.com
+0 2 1 37633 1 1757232888
+/
+ec2-34-255-180-6.eu-west-1.compute.amazonaws.com
+0 1 1 2349 1 1757505086
+/
+205.210.31.184
+0 1 0 229 1 1757984841
+/
+104.210.140.128
+0 1 1 24 0 0
+-
+google-proxy-66-249-85-65.google.com
+0 1 1 11086 1 1756760937
+/login
+msnbot-40-77-167-41.search.msn.com
+0 3 3 1048741 1 1758690270
+/forgot-password
+74.7.35.58
+0 1 1 37404 1 1757601919
+/
+ec2-34-247-251-27.eu-west-1.compute.amazonaws.com
+0 1 0 229 1 1757506550
+/
+srv44.luke.cl
+0 6 3 0 3 1758266811
+/
+20.171.207.44
+0 1 1 37404 1 1756916233
+/
+ec2-100-25-47-197.compute-1.amazonaws.com
+0 2 1 37633 1 1757755690
+/
+190-114-32-49.static.pacificored.cl
+0 18 18 2663087 1 1757601657
+/
+164.92.157.166
+0 2 0 106 1 1758290029
+/
+msnbot-40-77-167-3.search.msn.com
+0 1 1 37404 1 1757463554
+/
+ec2-44-226-198-161.us-west-2.compute.amazonaws.com
+0 2 1 37633 1 1757485951
+/
+104.210.140.143
+0 7 5 598 0 0
+-
+164.92.194.117
+0 2 2 1661 1 1758166606
+/
+msnbot-207-46-13-83.search.msn.com
+0 1 1 37404 1 1757216766
+/
+ec2-54-197-103-210.compute-1.amazonaws.com
+0 2 1 37633 1 1758623155
+/
+181.73.110.247
+0 19 17 2649106 1 1757441329
+/register
+186.189.106.29
+0 3 2 41274 1 1756903562
+/
+aq253.entelchile.net
+0 6 5 131303 1 1756762506
+/api/device-token
+ns1010346.ip-135-148-100.us
+0 3 1 2462 2 1758317938
+/
+143.198.39.64
+0 2 0 106 1 1756938541
+/
+client-181-42-194-94.imovil.entelpcs.cl
+0 19 8 249092 1 1756761618
+/api/device-token
+msnbot-52-167-144-54.search.msn.com
+0 4 4 96 0 0
+-
+186.189.104.152
+0 1 1 37404 1 1757601602
+/
+4.227.36.30
+0 1 1 24 0 0
+-
+209.38.120.173
+0 2 0 106 1 1757052716
+/
+143.244.185.121
+0 2 0 104 1 1757107517
+/
+198.235.24.139
+0 2 1 37633 1 1757336918
+/
+66.132.153.115
+0 5 2 50839 1 1757764599
+/
+msnbot-52-167-144-174.search.msn.com
+0 1 1 37404 1 1757562458
+/
+138.197.95.223
+0 2 1 37633 1 1757397194
+/
+scanner-202.ch1.censys-scanner.com
+0 6 2 57442 1 1756777407
+-
+17-241-75-138.applebot.apple.com
+0 2 2 37428 1 1758201061
+/
+167.94.138.204
+0 5 2 50839 1 1758453969
+/
+162.142.125.127
+0 5 2 50839 1 1757844397
+/
+64.71.166.35
+0 2 1 6909 0 0
+-
+68.183.196.161
+0 2 0 469 1 1757232924
+/
+164.90.188.196
+0 2 0 469 1 1758433203
+/
+93.123.109.214
+0 15 0 3574 1 1757351274
+/
+147.185.132.180
+0 1 1 37404 1 1758570627
+/
+client-181-42-163-88.imovil.entelpcs.cl
+0 1323 601 46462669 19 1757111725
+/api/device-token
+ip106.ip-23-82-110.mpp.il.com
+0 11 7 176706 1 1758473185
+-
+crawl-66-249-66-13.googlebot.com
+0 14 14 2087227 3 1758215895
+/register
+msnbot-157-55-39-12.search.msn.com
+0 1 1 10326 1 1756940831
+/forgot-password
+167.94.145.103
+0 5 2 57213 1 1757118812
+/
+8.36.86.51
+0 3 3 74832 1 1757970842
+/
+ec2-18-232-51-186.compute-1.amazonaws.com
+0 9 6 89151 1 1756949298
+/
+205.210.31.185
+0 1 0 229 1 1758279854
+/
+scanner-206.hk2.censys-scanner.com
+0 5 2 57213 1 1756951405
+-
+117.157.143.34.bc.googleusercontent.com
+0 3 1 44252 1 1757895904
+-
+143.110.221.1
+0 2 0 469 1 1757457916
+/
+ec2-34-242-12-161.eu-west-1.compute.amazonaws.com
+0 1 0 229 1 1757507213
+/
+google-proxy-66-249-85-66.google.com
+0 1 0 350 1 1756760937
+/dashboard
+msnbot-52-167-144-160.search.msn.com
+0 1 1 37404 1 1758255001
+/
+142.93.149.98
+0 2 2 1661 1 1756935596
+/
+ec2-34-249-124-134.eu-west-1.compute.amazonaws.com
+0 1 1 37404 1 1757505299
+/
+ec2-3-87-77-221.compute-1.amazonaws.com
+0 2 1 37633 1 1757064908
+/
+111.216.16.34.bc.googleusercontent.com
+0 1 1 37404 1 1757924339
+/
+104.210.140.135
+0 2 2 48 0 0
+-
+181.160.143.210
+0 67 63 6583093 4 1757522837
+/
+134.209.82.195
+0 2 0 469 1 1757663819
+/
+msnbot-52-167-144-206.search.msn.com
+0 1 1 37404 1 1757907535
+/
+meritable.monitoring.internet-measurement.com
+0 1 1 3641 0 0
+-
+46.101.192.19
+0 2 0 469 1 1758482941
+/
+8.36.86.54
+0 3 3 74832 1 1757970549
+/
+vps2402447.fastwebserver.de
+0 1 1 37404 1 1758673078
+/
+205.210.31.168
+0 1 0 229 1 1758692291
+/
+client-186-11-81-2.imovil.entelpcs.cl
+0 3 2 64997 1 1756765895
+/api/device-token
+ec2-3-25-227-200.ap-southeast-2.compute.amazonaws.com
+0 1 0 229 1 1757031321
+/
+msnbot-52-167-144-65.search.msn.com
+0 6 6 144 0 0
+-
+host190.114.43.69.dynamic.pacificored.cl
+0 10 10 340277 7 1758026610
+/
+ec2-98-82-202-239.compute-1.amazonaws.com
+0 2 1 37633 1 1758445642
+/
+165.227.77.234
+0 1 1 37404 1 1757439140
+/
+msnbot-40-77-167-1.search.msn.com
+0 1 1 10326 1 1757168164
+/forgot-password
+4.227.36.15
+0 2 1 263 0 0
+-
+104.210.140.137
+0 4 2 526 0 0
+-
+ec2-54-157-12-38.compute-1.amazonaws.com
+0 2 1 37633 1 1757488312
+/
+msnbot-40-77-167-42.search.msn.com
+0 6 6 397260 0 0
+-
+66.132.153.125
+0 4 2 50610 1 1757845000
+/
+msnbot-157-55-39-197.search.msn.com
+0 1 1 37404 1 1757508239
+/
+scanner-204.hk2.censys-scanner.com
+0 15 6 158891 3 1758022585
+/
+4.227.36.50
+0 1 1 24 0 0
+-
+dacs-compute-09.ewi.utwente.nl
+0 2 2 37428 1 1758040921
+/
+161.91.147.34.bc.googleusercontent.com
+0 2 1 37633 1 1757738487
+/
+45.232.94.178
+0 50 35 7494012 3 1756833677
+/areas
+ec2-44-248-177-172.us-west-2.compute.amazonaws.com
+0 3 2 37667 1 1757462156
+/
+20.171.207.113
+0 1 1 37404 1 1758530988
+/
+vps2406078.fastwebserver.de
+0 1 1 37404 1 1756978022
+/
+8.36.86.50
+0 3 3 74832 1 1757971240
+/
+crawl-66-249-73-72.googlebot.com
+0 1 1 24 0 0
+-
+treasured.monitoring.internet-measurement.com
+0 2 1 37633 1 1758123630
+/
+ec2-100-26-110-250.compute-1.amazonaws.com
+0 2 1 37633 1 1758101699
+/
+ec2-54-165-26-200.compute-1.amazonaws.com
+0 2 1 37633 1 1757318769
+/
+205.210.31.15
+0 1 1 37404 1 1757334147
+/
+152.172.57.146
+0 82 74 7449619 2 1757333792
+/dashboard
+93.158.90.69
+0 1 1 37404 1 1756712277
+/
+104.210.140.141
+0 4 3 311 0 0
+-
+104.210.140.138
+0 3 3 72 0 0
+-
+198.235.24.24
+0 2 1 37633 1 1758398108
+/
+93.158.90.36
+0 1 1 37404 1 1758322379
+/
+ec2-3-81-32-63.compute-1.amazonaws.com
+0 2 1 37633 1 1758273734
+/
+159.65.225.230
+0 2 2 1629 1 1758714335
+/
+scan.cypex.ai
+0 5 3 112670 3 1758179289
+/
+ec2-3-80-130-66.compute-1.amazonaws.com
+0 20 2 193662 1 1757932638
+/
+122.176.142.34.bc.googleusercontent.com
+0 3 1 44252 1 1757494365
+-
+unn-169-150-204-120.datapacket.com
+0 1 1 37404 1 1757221003
+/
+193.32.162.44
+0 2 1 37633 1 1758693602
+/
+planetlab24.gino-research.net.in.tum.de
+0 3 0 717 0 0
+-
+ec2-3-90-184-154.compute-1.amazonaws.com
+0 20 2 193662 1 1757919915
+/
+pc-37-153-86-200.cm.vtr.net
+0 164 140 16514021 4 1757509925
+/marcar
+host179.60.65.157.dynamic.pacificored.cl
+0 3 1 13206 2 1757972717
+-
+213.209.157.253
+0 1 0 240 0 0
+-
+msnbot-40-77-167-14.search.msn.com
+0 1 1 10326 1 1757961141
+/forgot-password
+45.232.94.133
+0 25 20 1241425 2 1756722822
+/dashboard
+161.35.43.25
+0 2 0 106 1 1757683643
+/
+8.36.86.48
+0 3 3 74832 1 1757971043
+/
+msnbot-40-77-178-222.search.msn.com
+0 1 1 108036 0 0
+-
+188.166.252.0
+0 20 2 193662 1 1756795326
+/
+104.210.140.130
+0 2 1 263 0 0
+-
+152.172.59.164
+0 30 28 4299835 1 1757415001
+/dashboard
+167.71.205.39
+0 20 2 193662 1 1757437138
+/
+4.227.36.9
+0 2 1 263 0 0
+-
+msnbot-52-167-144-166.search.msn.com
+0 1 1 37404 1 1756719437
+/
+20.171.207.73
+0 3 1 6478 1 1758771213
+/cgi-sys/suspendedpage.cgi
+104.210.140.131
+0 2 2 48 0 0
+-
+181.160.136.204
+0 36 34 3300095 2 1758104261
+/api/device-token
+192.36.173.21
+0 1 1 37404 1 1757897891
+/
+ec2-54-90-12-32.compute-1.amazonaws.com
+0 2 1 37633 1 1756894282
+/
+ec2-35-88-3-251.us-west-2.compute.amazonaws.com
+0 2 0 452 1 1758803260
+-
+93.158.90.72
+0 1 1 37404 1 1757237198
+/
+74.7.35.60
+0 1 1 37404 1 1757601918
+/
+159.65.221.248
+0 2 0 469 1 1757282190
+/
+ec2-34-211-240-10.us-west-2.compute.amazonaws.com
+0 3 2 75037 1 1756798111
+/
+185.177.72.45
+0 3 1 44247 1 1757961850
+/
+willing.monitoring.internet-measurement.com
+0 1 1 37404 1 1758143141
+/
+191.118.150.116
+0 141 127 9105478 2 1757068325
+/dashboard
+207.170.179.22
+0 2 1 37633 1 1758466609
+/
+134.209.117.231
+0 2 2 41045 1 1757750893
+/
+msnbot-52-167-144-218.search.msn.com
+0 4 4 486087 0 0
+-
+cache.google.com
+0 30 29 5132222 3 1757601617
+/login
+msnbot-207-46-13-102.search.msn.com
+0 1 1 10326 1 1757053447
+/forgot-password
+msnbot-207-46-13-150.search.msn.com
+0 1 1 10326 1 1756855248
+/forgot-password
+ec2-34-219-1-122.us-west-2.compute.amazonaws.com
+0 1 1 37404 1 1756714748
+/
+xxb63-75.entelchile.net
+0 3 3 66060 1 1756763796
+/api/device-token
+msnbot-207-46-13-36.search.msn.com
+0 1 1 37404 1 1756867558
+/
+20.171.207.183
+0 1 0 229 1 1756916230
+/
+173.211.31.43.rdns.colocationamerica.com
+0 2 0 6876 0 0
+-
+192.36.109.214
+0 1 1 24 0 0
+-
+217.160.202.182
+0 1 1 37404 1 1757828956
+/
+82.211.2.178
+0 2 1 37633 1 1757694257
+/
+162.142.125.122
+0 4 2 50610 1 1757844305
+/
+astounding.monitoring.internet-measurement.com
+0 1 1 0 0 0
+-
+20.74.85.78
+0 2 0 6836 0 0
+-
+20.171.207.52
+0 526 525 15974586 1 1757708335
+/forgot-password
+104.210.140.133
+0 4 2 526 0 0
+-
+4.227.36.41
+0 2 1 263 0 0
+-
+ec2-52-90-26-236.compute-1.amazonaws.com
+0 2 1 37633 1 1757934378
+/
+94.249.160.68
+0 2 1 37633 1 1757694259
+/
+enabling.monitoring.internet-measurement.com
+0 1 1 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+198.235.24.14
+0 1 0 230 1 1758937003
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://cimun.cl
+0 3
+https://webdisk.cimun.cl/
+0 2
+https://cpcalendars.cimun.cl/
+0 2
+https://www.cimun.cl/incidencias/40
+0 21
+https://www.cimun.cl/positions/create
+0 7
+https://www.cimun.cl/incidencias
+0 446
+https://www.cimun.cl/
+0 131
+https://mail.cimun.cl/
+0 1
+https://www.cimun.cl/positions/1
+0 5
+https://webmail.cimun.cl/
+0 2
+https://www.cimun.cl/build/assets/style-Cuxwy5N_.css
+0 34
+https://autodiscover.cimun.cl/
+0 2
+http://cimun.cl/
+0 11
+https://www.cimun.cl/incidencias/8
+0 15
+https://cimun.cl/
+0 8
+https://www.cimun.cl/forgot-password
+0 3
+https://www.cimun.cl/profile
+0 28
+https://www.cimun.cl/areas
+0 125
+https://www.cimun.cl/areas/1
+0 3
+https://www.cimun.cl/index
+0 1
+https://www.cimun.cl/incidencias/9
+0 3
+https://www.google.com/
+0 4
+- (Direct Request)
+0 1855
+http://cimun.cl/robots.txt
+0 4
+https://brouter.cl:2083/
+0 2
+https://brouter.cl:2087/
+0 2
+https://www.cimun.cl/calendario
+0 77
+https://www.cimun.cl/positions
+0 55
+https://console.firebase.google.com/
+0 1
+https://www.cimun.cl/assets/vendor/phosphor/phosphor-bold.css
+0 2
+https://cpanel.cimun.cl/
+0 2
+https://www.cimun.cl/incidencias/39
+0 19
+https://www.cimun.cl/assets/vendor/tabler-icons/tabler-icons.css
+0 13
+http://cimun.cl/ifo
+0 1
+https://www.cimun.cl/dashboard
+0 603
+https://cpcontacts.cimun.cl/
+0 1
+https://www.cimun.cl/marcar
+0 3
+https://cimun.cl
+0 3
+https://www.cimun.cl/funcionarios
+0 8
+https://www.cimun.cl/ia
+0 1
+https://cimun.cl/robots.txt
+0 3
+http://cimun.cl/wordpress/
+0 3
+https://www.cimun.cl/events/create
+0 11
+https://www.cimun.cl/register
+0 48
+http://101.44.9.104:80/
+0 2
+https://urano.intelsrv.net:2083/
+0 2
+https://www.cimun.cl/incidencias/38
+0 13
+https://www.cimun.cl/login
+0 206
+https://www.brouter.cl:2087/
+0 6
+https://www.cimun.cl/wordpress/
+0 3
+https://www.cimun.cl/positions/1/edit
+0 4
+https://www.cimun.cl/firebase-messaging-sw.js
+0 6
+# End Of Table - referrers
+# -agents- 
+Google-ilp
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 9
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/139.0.7
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+0 85
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.55 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 7
+Python/3.13 aiohttp/3.12.13
+0 2
+Mozilla/5.0 (Linux; Android 10; SM-M307F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.166 Safari/537.36 OPR/20.0.1396.73172
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 1264
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+0 316
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 620
+Pandalytics/2.0 (https://domainsbot.com/pandalytics/)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/101.0.4951.44 Mobile/15
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)
+0 543
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15
+0 2
+SAMSUNG-SGH-A867/A867UCHJ3 SHP/VPP/R5 NetFront/35 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1 UP.Link/6.3.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 4
+OI-Crawler/Nutch (https://openintel.nl/webcrawl/)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.3; rb.gy/qyzae5) Chrome/124
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 95
+Nokia3230/2.0 (5.0614.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/140.0.7339.122 Mobile
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; ZB602KL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 59
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/139.0.7258.76 Mobile/
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.3
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7) UCBrowser/2.9.0.263
+0 1
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 45
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15
+0 110
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.127 Mobile
+0 5
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/5
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36 OPR/19.0.1326.56
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 17
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/1428; U; en) Presto/2.2.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 2
+WhatsApp/2.23.20.0
+0 5
+Mozilla/5.0 zgrab/0.x
+0 5
+Scrapy/2.12.0 (+https://scrapy.org)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T230NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Safari/
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 4
+python-requests/2.32.3
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1
+0 1
+WhatsApp/2.2535.3 W
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 80
+Mozilla/5.0 (Linux; Android 11; SM-A217F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+0 1
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/0.8.12
+0 1
+Mozilla/5.0 (X11; NetBSD amd64; rv:16.0) Gecko/20121102 Firefox/16.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+0 2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS) (compatible; Googlebot-Mobile/2.1;  http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (Linux; Android 11; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux U; en-US)  AppleWebKit/528.5  (KHTML, like Gecko, Safari/528.5 ) Version/4.0 Kindle/3.0 (screen 600x800; r
+0 1
+Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+0 15
+Mozilla/5.0 (X11; CrOS x86_64 14526.89.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.133 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+0 67
+Mozilla/5.0 (compatible; Konqueror/4.1; OpenBSD) KHTML/4.1.4 (like Gecko)
+0 1
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.7.62 Version/11.01
+0 1
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Sa
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.127 Mobile
+0 24
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaX7-00/021.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, 
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4972.0 Safari/537.36
+0 1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 6_1 like Mac OS X; en-HK) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safar
+0 1
+okhttp/4.9.2
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Viewer/99.9.8
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36
+0 8
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2342 Mobile Safari/537.10+
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15
+0 2
+Mozilla/5.0 (compatible; wpbot/1.3; +https://forms.gle/ajBaxygz9jSR8p8G9)
+0 5
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1;  http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0 Iceweasel/19.0.2
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/109.0.5414.46 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+0 1
+Mozilla/5.0 (X11; U; Linux armv6l; rv 1.8.1.5pre) Gecko/20070619 Minimo/0.020
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 13
+Vodafone/1.0/V802SE/SEJ001 Browser/SEMC-Browser/4.1
+0 1
+Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 12
+Mozilla/5.0 Firefox/33.0
+0 8
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
